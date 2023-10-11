@@ -1,0 +1,3 @@
+INSERT INTO public.equipment_category (id, slug, name, is_active, created_at, updated_at) VALUES ('44aa6f54-4e2e-45c6-9570-8faacfaa6328', 'arme', 'Arme', true, '2020-04-18 16:56:44.556122', '2020-04-18 16:56:44.556122');
+INSERT INTO public.equipment_category (id, slug, name, is_active, created_at, updated_at) VALUES ('2f115687-0332-4d9a-a037-f44d669a2561', 'armure', 'Armure', true, '2020-04-18 16:56:44.557828', '2020-04-18 16:56:44.557828');
+INSERT INTO public.equipment_category (id, slug, name, is_active, created_at, updated_at) VALUES ('63df045f-3f69-4c71-abea-c8fa765be093', 'accessoire', 'Accessoire', true, '2020-04-18 16:56:44.559011', '2020-04-18 16:56:44.559011');

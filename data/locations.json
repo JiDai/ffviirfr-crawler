@@ -1,0 +1,247 @@
+{
+  "locations": [
+    {
+      "id": "cf3ef77f-0a01-47fc-a7dc-45972971651e",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-19T14:13:13.703Z",
+      "updatedAt": "2020-04-19T14:13:13.703Z",
+      "slug": "wall-market",
+      "name": "Wall Market"
+    },
+    {
+      "id": "3c68aae4-4eef-4608-896e-8dddf7c1caf4",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-21T20:47:33.997Z",
+      "updatedAt": "2020-04-21T20:47:33.997Z",
+      "slug": "les-egouts",
+      "name": "Les égouts"
+    },
+    {
+      "id": "ede30ad5-a257-4639-a60d-fd119c2e3ba4",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-25T07:19:03.659Z",
+      "updatedAt": "2020-04-25T07:19:13.328Z",
+      "slug": "cimetiere-des-trains",
+      "name": "Cimetière des trains"
+    },
+    {
+      "id": "b4cd599e-9b4f-4641-8aad-9642e81f50df",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.578Z",
+      "updatedAt": "2020-04-26T11:17:18.358Z",
+      "slug": "bidonville-du-secteur-5",
+      "name": "Bidonville du secteur 5"
+    },
+    {
+      "id": "fa485585-a539-4b50-baea-7fbdfafb7184",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-26T20:06:41.509Z",
+      "updatedAt": "2020-04-26T20:06:41.509Z",
+      "slug": "bidonville-du-secteur-6-(apres-effondrement-du-secteur-7)",
+      "name": "Bidonville du secteur 6 (après effondrement du secteur 7)"
+    },
+    {
+      "id": "cc376b79-3307-49f8-b8da-0feeda2139e7",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-26T11:12:05.989Z",
+      "updatedAt": "2020-04-26T11:17:08.979Z",
+      "slug": "secteur-7-:-zone-du-plateau-effondre",
+      "name": "Secteur 7 : zone du plateau effondré"
+    },
+    {
+      "id": "09721d1d-2223-45b4-b726-d061a80fdc52",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-26T18:05:17.063Z",
+      "updatedAt": "2020-04-26T18:05:17.063Z",
+      "slug": "bidonville-du-secteur-5-(apres-effondrement-du-secteur-7)",
+      "name": "Bidonville du secteur 5 (après effondrement du secteur 7)"
+    },
+    {
+      "id": "9f59270d-9a4d-4185-bc2d-046368fd340e",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-05-01T12:25:09.495Z",
+      "updatedAt": "2020-05-01T15:28:14.945Z",
+      "slug": "secteur-0-:-siege-de-la-compagnie-shinra",
+      "name": "Secteur 0 : siège de la compagnie Shinra"
+    },
+    {
+      "id": "6e9842ea-267f-438f-b1d8-88f68e34bd23",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2021-08-15T15:56:44.497Z",
+      "updatedAt": "2021-08-15T15:56:44.497Z",
+      "slug": "bidonville-du-secteur-7-zone-de-transport-:-niveau-intermediaire-(intergrade)",
+      "name": "Bidonville du Secteur 7, Zone de transport : niveau intermédiaire (Intergrade)"
+    },
+    {
+      "id": "91355342-48c3-4971-b24e-cefe05df744c",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.572Z",
+      "updatedAt": "2020-04-18T16:56:44.572Z",
+      "slug": "tunnel-en-spirale",
+      "name": "Tunnel en spirale"
+    },
+    {
+      "id": "d6e8911c-770c-4c77-aa16-afaea376b582",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.574Z",
+      "updatedAt": "2020-04-18T16:56:44.574Z",
+      "slug": "plateau-du-secteur-4",
+      "name": "Plateau du secteur 4"
+    },
+    {
+      "id": "310bc615-d914-4c81-9f8a-f1efe3563d61",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.570Z",
+      "updatedAt": "2020-04-18T16:56:44.570Z",
+      "slug": "bidonville-du-secteur-7",
+      "name": "Bidonville du secteur 7"
+    },
+    {
+      "id": "a43e2a6b-afdb-4032-8dea-1d1a5a3098e0",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-19T11:00:35.544Z",
+      "updatedAt": "2020-04-19T11:07:06.259Z",
+      "slug": "bidonville-du-secteur-6",
+      "name": "Bidonville du secteur 6"
+    },
+    {
+      "id": "04f6e40e-ebf9-4c27-a983-b72d590c7b90",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-26T19:50:12.698Z",
+      "updatedAt": "2020-04-26T19:50:12.698Z",
+      "slug": "wall-market-(apres-effondrement-du-secteur-7)",
+      "name": "Wall Market (après effondrement du secteur 7)"
+    },
+    {
+      "id": "54c6c2b1-6416-4911-aa90-b7fa07b50393",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-05-01T06:18:54.671Z",
+      "updatedAt": "2020-05-01T06:23:53.107Z",
+      "slug": "plateau-effondre-du-secteur-7",
+      "name": "Plateau effondré du secteur 7"
+    },
+    {
+      "id": "5f3c7182-bec1-49c5-85b2-62a7414a87ac",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.575Z",
+      "updatedAt": "2020-04-18T16:56:44.575Z",
+      "slug": "reacteur-mako-n-5",
+      "name": "Reacteur mako n° 5"
+    },
+    {
+      "id": "73564ee3-4c6b-4855-b466-c9c29a52f5e8",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-25T17:27:19.387Z",
+      "updatedAt": "2020-04-25T17:27:19.387Z",
+      "slug": "pilier-du-secteur-7",
+      "name": "Pilier du secteur 7"
+    },
+    {
+      "id": "e78ae642-3360-4291-a90a-666879d23d99",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-05-01T03:35:49.977Z",
+      "updatedAt": "2020-05-01T03:35:49.977Z",
+      "slug": "les-egouts-(apres-effondrement-du-secteur-7)",
+      "name": "Les égouts (après effondrement du secteur 7)"
+    },
+    {
+      "id": "ad0080d2-4767-4ea1-99ea-b4f8ab49b369",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T22:12:43.627Z",
+      "updatedAt": "2020-04-18T22:12:43.627Z",
+      "slug": "simulateur-de-combat-de-chadley",
+      "name": "Simulateur de combat de Chadley"
+    },
+    {
+      "id": "35fe7627-bb4d-48a4-b09e-1d7662cf551e",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2021-08-15T15:56:44.497Z",
+      "updatedAt": "2021-08-15T15:56:44.497Z",
+      "slug": "bidonville-du-secteur-7-(intergrade)",
+      "name": "Bidonville du Secteur 7 (Intergrade)"
+    },
+    {
+      "id": "27e72f55-fa5e-4047-9a42-fc6f7c5857f6",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.566Z",
+      "updatedAt": "2020-04-18T16:56:44.566Z",
+      "slug": "reacteur-mako-n-1",
+      "name": "Reacteur mako n° 1"
+    },
+    {
+      "id": "b51bd77c-5b48-4164-80de-8db6bec6e321",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.576Z",
+      "updatedAt": "2020-04-26T11:17:30.499Z",
+      "slug": "bidonville-du-secteur-5-(eglise)",
+      "name": "Bidonville du secteur 5 (Eglise)"
+    },
+    {
+      "id": "f7ac94b4-1861-4848-9dc8-6e20247187cc",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.571Z",
+      "updatedAt": "2020-04-18T16:56:44.571Z",
+      "slug": "centre-ville-du-secteur-7",
+      "name": "Centre-ville du secteur 7"
+    },
+    {
+      "id": "353eba72-0856-4b18-9dbb-75db8528bd79",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.568Z",
+      "updatedAt": "2020-04-18T16:56:44.568Z",
+      "slug": "centre-ville-du-secteur-8",
+      "name": "Centre-ville du secteur 8"
+    },
+    {
+      "id": "bf6e0c52-8871-4b95-95fa-5365fb9ef886",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-27T17:37:43.403Z",
+      "updatedAt": "2020-04-27T17:37:43.403Z",
+      "slug": "site-d-experimentation-souterrain",
+      "name": "Site d'expérimentation souterrain"
+    },
+    {
+      "id": "d8201a2b-fc51-4e7f-b9ab-bf527b5e1b6d",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-05-02T09:25:44.487Z",
+      "updatedAt": "2020-05-02T09:25:44.487Z",
+      "slug": "fin",
+      "name": "Fin"
+    },
+    {
+      "id": "32c262fd-6562-4715-a24b-7b21ea3252a1",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.580Z",
+      "updatedAt": "2020-04-18T16:56:44.580Z",
+      "slug": "chadley",
+      "name": "Chadley"
+    }
+  ]
+}

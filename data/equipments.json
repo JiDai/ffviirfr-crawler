@@ -1,0 +1,2276 @@
+{
+  "characters": [
+    {
+      "id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.522Z",
+      "updatedAt": "2020-04-18T16:56:44.522Z",
+      "slug": "cloud",
+      "name": "Cloud"
+    },
+    {
+      "id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.524Z",
+      "updatedAt": "2020-04-18T16:56:44.524Z",
+      "slug": "barret",
+      "name": "Barret"
+    },
+    {
+      "id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.526Z",
+      "updatedAt": "2020-04-18T16:56:44.526Z",
+      "slug": "tifa",
+      "name": "Tifa"
+    },
+    {
+      "id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2020-04-18T16:56:44.527Z",
+      "updatedAt": "2020-04-18T16:56:44.527Z",
+      "slug": "aerith",
+      "name": "Aerith"
+    },
+    {
+      "id": "1c021049-b1c9-4c2d-be39-ede86164c3a7",
+      "isActive": true,
+      "picture": null,
+      "createdAt": "2021-08-15T13:20:26.429Z",
+      "updatedAt": "2021-08-15T13:20:26.429Z",
+      "slug": "yuffie",
+      "name": "Yuffie"
+    }
+  ],
+  "equipments": {
+    "accessoire": [
+      {
+        "id": "207fe475-f3ad-4c5b-9429-f53dfb535b48",
+        "isActive": true,
+        "picture": "equipements/bandeau.jpg",
+        "createdAt": "2020-04-19T15:28:40.640Z",
+        "updatedAt": "2020-04-19T15:29:40.008Z",
+        "slug": "bandeau",
+        "name": "Bandeau",
+        "description": "Un morceau de tissu qui permet de lutter contre le sommeil lorsqu'il est porté autour de la tête.",
+        "effects": "Immunise contre l'altération d'état Sommeil en combat.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "f54349ff-6992-4867-bae3-889f789b5efb"
+          },
+          {
+            "id": "5b5d0457-a70e-49b7-aea3-e6e3ae7fb0e3"
+          },
+          {
+            "id": "f52f4d8b-00f6-49e9-ad94-87b725d531b3"
+          },
+          {
+            "id": "ef380cc3-b6a2-4278-82b6-4f81b9f70123"
+          },
+          {
+            "id": "75c80c45-e201-4f83-b6c1-86289a6e5546"
+          },
+          {
+            "id": "e2329175-4d4f-4cbb-bd33-8babe4b231bb"
+          },
+          {
+            "id": "96871ab0-127c-4188-9bd3-a85d0d685b7b"
+          },
+          {
+            "id": "cd02bfb4-9f38-43cb-94f2-3d9e8d1fc69f"
+          },
+          {
+            "id": "803bbdf8-ce7a-4884-8e1d-8c7201c9cf40"
+          },
+          {
+            "id": "8b0a65e4-933f-48ac-9b8f-7b07cfb0dcf6"
+          }
+        ]
+      },
+      {
+        "id": "224db969-490a-444e-9f2b-c158dda813d8",
+        "isActive": true,
+        "picture": "equipements/talisman.jpg",
+        "createdAt": "2020-04-18T16:56:44.644Z",
+        "updatedAt": "2020-04-18T16:56:44.644Z",
+        "slug": "talisman",
+        "name": "Talisman",
+        "description": "Una amulette en or sur laquelle figure d'anciens glyphes et qui favorise la concentration.",
+        "effects": "Augmente l'esprit de 5%",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "234b95fd-d322-4cf6-9335-3a9b9783c54e"
+          },
+          {
+            "id": "a65e9346-7190-4221-afaa-796aa735e2ea"
+          },
+          {
+            "id": "fa92ac74-9c95-484c-a1ec-a3ac2d760d32"
+          },
+          {
+            "id": "fb66961f-c97f-4ed3-ad5f-4b3a5c402247"
+          },
+          {
+            "id": "f4855dfb-5141-421d-b33b-d0261bf1f04b"
+          },
+          {
+            "id": "c20dfebc-f471-4922-86cc-5ef3f93ad8ee"
+          },
+          {
+            "id": "319b0db4-711e-4ea3-b2dc-bcb6bd7cfa9f"
+          },
+          {
+            "id": "1e2c7751-7f92-4780-b4f7-c3d0d02c8052"
+          },
+          {
+            "id": "0207ef44-8302-418b-a2fd-1362021b10ad"
+          },
+          {
+            "id": "2d93093f-d341-47c3-841c-2c48d6e725c9"
+          },
+          {
+            "id": "2c1a85a3-7db4-4674-a09e-21dfd1fa6f38"
+          },
+          {
+            "id": "f7a37f55-4e43-44a2-9c00-0e47d403a4ce"
+          },
+          {
+            "id": "55f706ed-0947-493c-b9d2-c5ff3ec72789"
+          },
+          {
+            "id": "24e85be2-95d3-4736-a39e-6fa9a5e1d3ec"
+          },
+          {
+            "id": "3c9ad81d-6499-47ad-a3df-9736644c5bd7"
+          },
+          {
+            "id": "3c849142-6473-4e0d-982c-088f2a2f659f"
+          }
+        ]
+      },
+      {
+        "id": "bfac45aa-a69d-45a5-aca9-1c627485a27e",
+        "isActive": true,
+        "picture": "equipements/gilet-pare-balles.jpg",
+        "createdAt": "2020-04-18T16:56:44.639Z",
+        "updatedAt": "2020-04-18T16:56:44.639Z",
+        "slug": "gilet-pare-balles",
+        "name": "Gilet pare-balles",
+        "description": "Un gilet pare-balles comme ceux qu'utilisent les gardes de la compagnie Shinra.",
+        "effects": "Augmente la constitution de 5%",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "38d68c43-f946-44a6-8f84-20358cb2a99e"
+          },
+          {
+            "id": "4da1f159-9ba0-4d30-b668-33810e370543"
+          },
+          {
+            "id": "791d45f3-47c7-4821-848d-93d6692a24a3"
+          },
+          {
+            "id": "f40c1d21-46e7-4396-a664-896844580d8f"
+          },
+          {
+            "id": "d148649c-6a98-4362-a27e-ec0057205d6a"
+          },
+          {
+            "id": "95b590c4-f7fa-4354-9bbe-40b88b390b2b"
+          },
+          {
+            "id": "24602e9f-f44c-49f5-b41b-a5116f26fffb"
+          },
+          {
+            "id": "6778fd17-7643-49c7-8f78-2e2b7a35d164"
+          },
+          {
+            "id": "2994be7d-5a8f-407a-a83c-40c0b0d69910"
+          },
+          {
+            "id": "310a2488-6209-425a-8346-15e42ba3a68a"
+          },
+          {
+            "id": "a9efbb8d-016c-4f84-afd6-da97bb9077b3"
+          },
+          {
+            "id": "d1b39be0-fa6d-44a4-9775-04d5474d0414"
+          },
+          {
+            "id": "ea1aadb2-f871-44b3-9cfe-d364a9b7bea8"
+          },
+          {
+            "id": "744050e3-f1e5-47a1-a531-3c3c544c1793"
+          },
+          {
+            "id": "614cdd2e-f51d-489b-8854-5ea2f6831597"
+          },
+          {
+            "id": "5c63df35-2ead-471a-8f33-7f848d45176d"
+          }
+        ]
+      },
+      {
+        "id": "6d9d33d6-7133-4436-ae57-fa7340abdf32",
+        "isActive": true,
+        "picture": "equipements/boucle-d-oreille-en-platine.jpg",
+        "createdAt": "2020-04-19T15:15:48.721Z",
+        "updatedAt": "2020-04-19T15:16:23.519Z",
+        "slug": "boucle-d-oreille-en-platine",
+        "name": "Boucle d'oreille en platine",
+        "description": "Une boucle d'oreille de luxe sertie d'un éclat de matéria.",
+        "effects": "Augmente la magie de 10%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "c46ff888-7990-429a-9514-4776b07f6aa7"
+          },
+          {
+            "id": "59ceb050-f742-4e77-83bc-74c8fe0c9503"
+          },
+          {
+            "id": "ab8a02ee-fadc-4c17-bc10-ba0d73c5d8fb"
+          },
+          {
+            "id": "b8a6f993-15f6-4024-be4c-66b990b9cbda"
+          },
+          {
+            "id": "b91371cb-c1d8-413c-9d03-78cbca69d444"
+          },
+          {
+            "id": "d3cb6f01-0851-49d4-a3c1-936f6fa0bd87"
+          },
+          {
+            "id": "b6bb090e-57ed-4059-8f9c-f8af2b57df12"
+          },
+          {
+            "id": "1e19b6b0-c4e3-41e8-adb4-40022b539839"
+          },
+          {
+            "id": "7364b3d9-dfaf-4943-b8ee-0722d5829768"
+          },
+          {
+            "id": "50806f99-d376-42c9-be8a-24ccc4317075"
+          }
+        ]
+      },
+      {
+        "id": "fad608b7-8839-4f3b-995a-df4b781c2dfa",
+        "isActive": true,
+        "picture": "equipements/boucle-spiritiste.jpg",
+        "createdAt": "2020-04-18T16:56:44.646Z",
+        "updatedAt": "2020-04-18T16:56:44.646Z",
+        "slug": "boucle-spiritiste",
+        "name": "Boucle spiritiste",
+        "description": "Une boucle d'oreille dans laquelle réside un esprit capable de ranimer une personne inconsiente.",
+        "effects": "Octroie l'effet Revie en combat. Accessoire détruit en cas d'activation de l'effet.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "37ae9a28-4528-4499-8161-175c55ed522a"
+          },
+          {
+            "id": "24f0f477-ea78-425c-acab-8a6eb120fffd"
+          },
+          {
+            "id": "869d3b8c-4120-4482-8e0b-65e7e5d4dfc6"
+          },
+          {
+            "id": "e3826001-52eb-4b5b-84eb-591a1f6c7ade"
+          },
+          {
+            "id": "c37e32ac-3065-4762-881c-1c40aad10ce5"
+          },
+          {
+            "id": "f3909907-bed6-4bdc-9ab1-2b53a733aa9b"
+          },
+          {
+            "id": "c8f77fa8-f014-4281-8307-6426cb34686b"
+          },
+          {
+            "id": "dc040110-d917-466d-bae7-ac6cdbcf251f"
+          },
+          {
+            "id": "92383225-04a6-4fa7-bef9-2dda078b6517"
+          },
+          {
+            "id": "5d3672ed-5723-4feb-888f-a97710e66ff4"
+          },
+          {
+            "id": "357bc450-ecf6-48c0-b80f-a4aac7b1bb05"
+          },
+          {
+            "id": "dd4367e4-77eb-4c42-97ed-29dd03e85d33"
+          },
+          {
+            "id": "472998e1-cba7-4df5-905d-a6b58e088bc8"
+          },
+          {
+            "id": "612986ba-9719-465f-bd2e-a57955bf2b01"
+          },
+          {
+            "id": "feaf48b1-a254-42af-9bbd-f57982b2a062"
+          }
+        ]
+      },
+      {
+        "id": "90fa9cbd-144a-4db8-88a8-530447a79aaa",
+        "isActive": true,
+        "picture": "equipements/poignet-de-force.jpg",
+        "createdAt": "2020-04-18T16:56:44.641Z",
+        "updatedAt": "2020-04-18T16:56:44.641Z",
+        "slug": "poignet-de-force",
+        "name": "Poignet de force",
+        "description": "Une poignet qui permet à celui qui le porte d'exploiter tout le potentiel de ses muscles.",
+        "effects": "Augmente la force de 5%",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "1086de11-ef0d-43ed-9074-7dfbd9bf2f5f"
+          },
+          {
+            "id": "32b2ac7e-1e4e-407c-814a-132e6b85eaaa"
+          },
+          {
+            "id": "b7dde6be-cf84-435a-b02f-ec784608c398"
+          },
+          {
+            "id": "fedf5a3b-245e-4519-9c36-cd1b7815f263"
+          },
+          {
+            "id": "de35656e-c8e9-44f0-97f6-0c728d870e21"
+          },
+          {
+            "id": "2cf67633-03c0-46fb-8a67-a5b4c4e8b7b5"
+          },
+          {
+            "id": "b2fbdeda-8630-483b-bce2-3767ba030e72"
+          },
+          {
+            "id": "5fd89c80-4369-4226-b92d-3f842ca68b28"
+          },
+          {
+            "id": "4c11903c-2df0-4578-873b-c8e1218e667f"
+          },
+          {
+            "id": "d9690419-024e-4459-ba44-1d07c75482e0"
+          },
+          {
+            "id": "66c374dc-6701-4885-8168-e85efcc259a8"
+          },
+          {
+            "id": "1fd67eb1-05c5-4a90-9157-472a35ffa7f0"
+          },
+          {
+            "id": "a56b2bfc-f70a-4bac-add7-e3f7a9f6a559"
+          },
+          {
+            "id": "938cf4f1-16b4-49d0-a3a5-4fa3b18104a5"
+          },
+          {
+            "id": "17e1b3e6-c1da-42bf-b3b4-3d4b1ebf6028"
+          },
+          {
+            "id": "bdb39cc6-38f2-433e-8a7e-d4bbecb2a5b3"
+          }
+        ]
+      },
+      {
+        "id": "31393b37-74d5-42a8-ae6b-7dffc6da2542",
+        "isActive": true,
+        "picture": "equipements/boucle-d-oreille.jpg",
+        "createdAt": "2020-04-18T16:56:44.642Z",
+        "updatedAt": "2020-04-18T16:56:44.642Z",
+        "slug": "boucle-d-oreille",
+        "name": "Boucle d'oreille",
+        "description": "Une boucle d'oreille créée avec un éclat de matéria.",
+        "effects": "Augmente la magie de 5%",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "dc630094-0d7f-4ccd-8eae-63c98e6f388e"
+          },
+          {
+            "id": "aa86bef3-c0e8-4f0d-99d9-62a4b21a9055"
+          },
+          {
+            "id": "d1e8fecc-295a-4715-a931-17ae42681c5c"
+          },
+          {
+            "id": "3447c591-4c4c-4737-833c-295fbebbf0c5"
+          },
+          {
+            "id": "f76ec433-096e-4285-92cc-db558e31c064"
+          },
+          {
+            "id": "7bea2dda-9aae-4235-9504-6576ee407ec0"
+          },
+          {
+            "id": "a9ab7101-9da9-4aeb-ad45-0c22b8c0bd5f"
+          },
+          {
+            "id": "e8eec69b-4152-4926-9418-2f55a3ecad8d"
+          },
+          {
+            "id": "8d7b7787-b96f-45a6-a4bb-de778b8a6eed"
+          },
+          {
+            "id": "61f8559e-c9bf-4ad1-8530-2f876e4a0fab"
+          },
+          {
+            "id": "702a49fd-d660-4e0f-b3df-e707366b97c8"
+          },
+          {
+            "id": "25c4d4fd-47aa-410e-8649-315a540b8656"
+          },
+          {
+            "id": "5ed73815-360e-4e73-b807-4d8919d1c441"
+          },
+          {
+            "id": "ec9e9ca4-bcf2-423c-be54-7d411aae1bb1"
+          },
+          {
+            "id": "a9849a42-c76d-443b-92e2-0e324d5872c0"
+          },
+          {
+            "id": "73afd114-c025-44e9-950e-12a3379ade9e"
+          }
+        ]
+      },
+      {
+        "id": "7898dfdf-e784-477f-9d75-93f272c91238",
+        "isActive": true,
+        "picture": "equipements/foulard-siffle-vent.jpg",
+        "createdAt": "2020-04-18T16:56:44.658Z",
+        "updatedAt": "2020-04-18T16:56:44.658Z",
+        "slug": "foulard-siffle-vent",
+        "name": "Foulard siffle-vent",
+        "description": "Un foulard qui donne l'impression d'être caressé par une brise légère",
+        "effects": "Permet de commencer les combats avec une jauge à ATB partiellement remplie.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "898aeac5-fbaa-458b-94d4-d74d1125591e"
+          }
+        ]
+      },
+      {
+        "id": "fafeb322-02c4-4924-92f3-f2dd462f2d53",
+        "isActive": true,
+        "picture": "equipements/badge-de-secours.jpg",
+        "createdAt": "2020-04-18T16:56:44.660Z",
+        "updatedAt": "2020-04-18T16:56:44.660Z",
+        "slug": "badge-de-secours",
+        "name": "Badge de secours",
+        "description": "Un badge dont le symbole donne à son porteur le sentiment que son âme sera secourue.",
+        "effects": "Augmente l'effet des soins sur le personnage en combat, lorsque ses PV sont inférieurs ou égaux à 25 %.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "dbbe3893-a6bb-4634-885c-41af9c5c8d95"
+          }
+        ]
+      },
+      {
+        "id": "03aad90f-8bff-4699-bd34-33253341b2b3",
+        "isActive": true,
+        "picture": "equipements/gilet-pare-balles-renforce.jpg",
+        "createdAt": "2020-04-19T15:14:46.977Z",
+        "updatedAt": "2020-04-19T15:15:27.271Z",
+        "slug": "gilet-pare-balles-renforce",
+        "name": "Gilet pare-balles renforcé",
+        "description": "Un gilet par balle réservé aux unités d'élite de la compagnie Shinra.",
+        "effects": "Augmente la constitution de 10%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "c91de526-a640-4ceb-a962-1d3f6d0f20f2"
+          },
+          {
+            "id": "b05b9cde-f405-483b-9eed-bb929bbe8625"
+          },
+          {
+            "id": "aecc4e56-4b77-4bcd-b805-167cc9a602da"
+          },
+          {
+            "id": "1b3338e6-0ffb-4f08-9e81-78a329a5ac4f"
+          },
+          {
+            "id": "ef6c9e51-68b8-4aab-ad02-ab7ffc47e474"
+          },
+          {
+            "id": "2031d073-42ef-4dbf-8f91-f0bbbfa2d6ed"
+          },
+          {
+            "id": "4a122efd-1184-4adb-a1fc-cd07ad666799"
+          },
+          {
+            "id": "396077fa-86c1-47cc-a4c4-91a4876ee8a4"
+          },
+          {
+            "id": "926f0ebf-545f-4808-a07b-1d2bd53b64ca"
+          },
+          {
+            "id": "7c5e0ae9-39f4-4ad2-b1e1-d8a634457bcb"
+          }
+        ]
+      },
+      {
+        "id": "aeeba67d-1e18-4fe9-90f1-813057b5e461",
+        "isActive": true,
+        "picture": "equipements/engrenage-magique.jpg",
+        "createdAt": "2020-04-18T21:46:37.183Z",
+        "updatedAt": "2020-04-18T21:48:11.565Z",
+        "slug": "engrenage-magique",
+        "name": "Engrenage magique",
+        "description": "Un étrange engrenage qui bouge en transformant la magie en énergie.",
+        "effects": "Remplit la jauge de Transcendance lorsque des PM sont utilisés.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "c1141b40-422a-4c6f-9e71-3089bdd6a40e"
+          }
+        ]
+      },
+      {
+        "id": "18159455-e7af-42ec-8469-b69417a99a8a",
+        "isActive": true,
+        "picture": "equipements/poignet-de-grande-force.jpg",
+        "createdAt": "2020-04-19T15:13:28.771Z",
+        "updatedAt": "2020-04-19T15:14:30.714Z",
+        "slug": "poignet-de-grande-force",
+        "name": "Poignet de grande force",
+        "description": "Un poignet qui permet à celui qui le porte d'exploiter le potentiel de ses muscles jusqu'à ses limites.",
+        "effects": "Augmente la force de 10%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "457e90f5-6eb6-4838-9255-5236408e3354"
+          },
+          {
+            "id": "aa73e996-10cb-4a0d-aa01-51de29f5cf09"
+          },
+          {
+            "id": "7ec17012-c828-4115-ad86-20244f7e38d3"
+          },
+          {
+            "id": "9a031438-0eb4-42b8-bd4a-0805453008e3"
+          },
+          {
+            "id": "2e44925f-fbb2-4d53-87ae-892308a79113"
+          },
+          {
+            "id": "bee3342d-1e28-4cc2-89e6-cca31445246a"
+          },
+          {
+            "id": "27bfe55f-ce41-4e54-8abb-e3dadfca4409"
+          },
+          {
+            "id": "4053bd37-e8d4-46f2-bd46-d21ada012dcc"
+          },
+          {
+            "id": "1dd90231-bb2a-41f3-b6b7-4b8dbbaa9a6b"
+          },
+          {
+            "id": "8bceb093-ef92-4d5d-9bcc-6df44380d8b9"
+          }
+        ]
+      },
+      {
+        "id": "052e520d-8d6e-475b-9294-2f0bdd9d3480",
+        "isActive": true,
+        "picture": "equipements/talisman-ancien.jpg",
+        "createdAt": "2020-04-19T15:16:40.859Z",
+        "updatedAt": "2020-04-19T15:17:13.169Z",
+        "slug": "talisman-ancien",
+        "name": "Talisman ancien",
+        "description": "Un talisman que les Anciens utilisaient paraît-il tous les jours.",
+        "effects": "Augmente la magie de 10%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "12452c9b-2a2e-4c96-a26d-39a5e2e983d3"
+          },
+          {
+            "id": "28baef61-2983-44fc-bc3a-5828b366ee0a"
+          },
+          {
+            "id": "de54a9e1-754f-4d66-84b3-29a2d0167b11"
+          },
+          {
+            "id": "f277889e-795c-4d77-8c5b-2f344baecf79"
+          },
+          {
+            "id": "b594b1c3-544c-4cd7-92f8-ba7a016dbdc4"
+          },
+          {
+            "id": "ab767db0-8bb5-4c04-b3dc-53a86106c475"
+          },
+          {
+            "id": "dcca37b1-22ea-4608-b0bd-514245883296"
+          },
+          {
+            "id": "24a4928f-cfe5-46c7-b6f3-01e04ffbd52a"
+          },
+          {
+            "id": "759bf8f8-0f25-48aa-94ae-1d652a0ebf1c"
+          },
+          {
+            "id": "4ffeefb1-6869-4408-b629-93bd9c6a9f93"
+          }
+        ]
+      },
+      {
+        "id": "46149af3-ac09-4368-88a4-ae067fd90ffe",
+        "isActive": true,
+        "picture": "equipements/pendentif-etoile.jpg",
+        "createdAt": "2020-04-18T16:56:44.657Z",
+        "updatedAt": "2020-04-18T16:56:44.657Z",
+        "slug": "pendentif-etoile",
+        "name": "Pendentif étoilé",
+        "description": "Un pendentif en forme d'étoile qui a l'étrange faculté de soigner",
+        "effects": "Immunise contre l'altération de l'état Poison en combat.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "31e323cc-2196-46d9-9792-a6bfb349659c"
+          },
+          {
+            "id": "6f51d319-e895-4dad-9fb9-69d75effeba7"
+          },
+          {
+            "id": "7052035a-4e85-41b2-8613-4ae38084ca4c"
+          },
+          {
+            "id": "991e40d3-2ea0-40a4-b107-76f274a225a0"
+          },
+          {
+            "id": "7527d3b5-bef0-42a6-9b82-fbdf87996558"
+          },
+          {
+            "id": "15d3c1a8-2ab8-4e1d-b384-50ac8bf56ab5"
+          },
+          {
+            "id": "88c68825-b82b-41f5-bc6d-9b945447d4cd"
+          },
+          {
+            "id": "760fe867-4fd7-4e32-b826-1245922e237b"
+          },
+          {
+            "id": "448f3bb6-2921-417d-af40-0d4e8d3de9c9"
+          },
+          {
+            "id": "df99140f-0aef-4403-bffa-90285b49a0b7"
+          },
+          {
+            "id": "33f22fe3-b763-4198-8760-7fb46fc30bb2"
+          }
+        ]
+      },
+      {
+        "id": "c4dcc0f1-bc5b-41ea-81af-c124951eae48",
+        "isActive": true,
+        "picture": "",
+        "createdAt": "2020-04-25T21:03:13.246Z",
+        "updatedAt": "2020-04-25T21:04:39.979Z",
+        "slug": "amulette-d-invocateur",
+        "name": "Amulette d'invocateur",
+        "description": "Une amulette à l'honneur d'Espers qui aurait autrefois protégé la planète.",
+        "effects": "Augmente la puissance des Espers invoqués.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "0b0219ef-9d70-45b6-af33-1507b55b2057"
+          }
+        ]
+      },
+      {
+        "id": "7bba4bbe-62b4-4ab7-ad5f-535773721649",
+        "isActive": true,
+        "picture": "equipements/bottes-protectrices.jpg",
+        "createdAt": "2020-04-18T17:47:05.041Z",
+        "updatedAt": "2020-04-18T18:00:05.777Z",
+        "slug": "bottes-protectrices",
+        "name": "Bottes protectrices",
+        "description": "Une paire de bottes confectionnés pour les gardes qui doivent faire face aux conditions les plus dures.\nImmunise contre l'alteration d'état Stop en combat.",
+        "effects": "Immunise contre l'alteration d'état Lenteur en combat. \nImmunise contre l'alteration d'état Stop en combat.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "c2e3afd2-dd4a-4fd3-bef0-7f9a08acd8a8"
+          }
+        ]
+      },
+      {
+        "id": "d0c53d07-f373-4aa7-80f6-3ea08bebbfd8",
+        "isActive": true,
+        "picture": "equipements/croissant-de-lune-porte-bonheur.jpg",
+        "createdAt": "2020-04-18T21:35:04.374Z",
+        "updatedAt": "2020-04-18T21:36:41.536Z",
+        "slug": "croissant-de-lune-porte-bonheur",
+        "name": "Croissant de lune porte-bonheur",
+        "description": "Un porte-bonheur en forme de croissant de lune exprimant l'espoir que celui que porte restera toujours proche.",
+        "effects": "Réduit les dégâts subis lors ce que vous ne contrôlez pas le personnage.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "b2decf66-025b-41b4-8d01-028d726c0ba1"
+          }
+        ]
+      },
+      {
+        "id": "99a7ebc7-c3f2-4eec-a8df-808a6fa17766",
+        "isActive": true,
+        "picture": "equipements/diademe.jpg",
+        "createdAt": "2020-04-27T06:31:24.423Z",
+        "updatedAt": "2020-04-27T06:34:27.926Z",
+        "slug": "diademe",
+        "name": "Diadème",
+        "description": "Un diadème digne de ceux que les sorcières portent dans les contes pour enfants.\nAugment la magie de 5%.",
+        "effects": "Augment les PM maximums de 10%.\nAugment la magie de 5%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "3e871491-9e7a-4b73-adda-6d7d42837423"
+          }
+        ]
+      },
+      {
+        "id": "94837843-b33b-43ba-8c42-561974fede85",
+        "isActive": true,
+        "picture": "equipements/ceinture-de-champion.jpg",
+        "createdAt": "2020-04-19T18:46:47.582Z",
+        "updatedAt": "2020-04-19T18:47:54.671Z",
+        "slug": "ceinture-de-champion",
+        "name": "Ceinture de champion",
+        "description": "Une ceinture destiné aux champions des duels de force musculaire.",
+        "effects": "Augmente les PV maximum de 10%. Augmente la force de 5%.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "b820672a-75d2-4cd3-999b-9ba8850faefb"
+          },
+          {
+            "id": "265d261b-b4d7-4b98-89f5-2a3b04282230"
+          }
+        ]
+      },
+      {
+        "id": "01ff0ce7-a7ba-476e-8d84-3bfc662ab1ec",
+        "isActive": true,
+        "picture": "equipements/anneau-de-furie.jpg",
+        "createdAt": "2020-04-21T20:22:00.744Z",
+        "updatedAt": "2020-04-21T20:23:03.406Z",
+        "slug": "anneau-de-furie",
+        "name": "Anneau de furie",
+        "description": "Un anneau qui a le pouvoir d'attiser l'agressivité de celui qui le porte.",
+        "effects": "Octroi l'effet Furie au combat.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "0cf600c0-308a-4e25-862e-d5e53ee736ae"
+          }
+        ]
+      },
+      {
+        "id": "bb73f161-b8b0-434a-90ee-b92e60de876a",
+        "isActive": true,
+        "picture": "equipements/ras-de-cou-de-soigneur.jpg",
+        "createdAt": "2020-04-26T11:47:32.808Z",
+        "updatedAt": "2020-04-26T11:48:37.871Z",
+        "slug": "ras-de-cou-de-soigneur",
+        "name": "Ras-de-cou  de soigneur",
+        "description": "Un ras-de-cou qui réchauffe le cœur de celui qui le porte.",
+        "effects": "Augmente l'effet des soins.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "63df045f-3f69-4c71-abea-c8fa765be093",
+        "locations": [
+          {
+            "id": "4b98a26a-af47-4c8c-92a1-a3057aa079aa"
+          }
+        ]
+      }
+    ],
+    "arme": [
+      {
+        "id": "fb808a34-a100-43ae-8dd3-9a7b37478c5e",
+        "isActive": true,
+        "picture": "equipements/baton-en-mithril.jpg",
+        "createdAt": "2020-04-26T08:02:37.720Z",
+        "updatedAt": "2020-04-26T08:33:51.655Z",
+        "slug": "baton-en-mithril",
+        "name": "Bâton en mithril",
+        "description": "Un bâton en mithril que les mages des contes de fées aimaient prétendument utiliser.",
+        "effects": null,
+        "physicalStrength": 24,
+        "physicalDefense": 0,
+        "magicalStrength": 92,
+        "magicalDefense": 0,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "462ebf90-6bba-4f98-84c8-51f46e36675c",
+        "locations": [
+          {
+            "id": "d12a0e01-21e4-4ec8-aa5a-f8455bc5125d"
+          },
+          {
+            "id": "0fa06593-b9b6-4969-b260-32ab2017eaf9"
+          }
+        ]
+      },
+      {
+        "id": "e97d2738-9d08-451f-ae79-e5ae1102547a",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2021-08-15T14:42:03.079Z",
+        "updatedAt": "2021-08-15T16:07:32.632Z",
+        "slug": "shuriken-juji",
+        "name": "Shuriken Juji",
+        "description": "Un énorme shuriken utilisé par les shinobi du Wutai.",
+        "effects": null,
+        "physicalStrength": 46,
+        "physicalDefense": 46,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": "6",
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "1c021049-b1c9-4c2d-be39-ede86164c3a7",
+        "skill_id": "110978fc-d119-477f-9713-38041f70e222",
+        "locations": [
+          {
+            "id": "3222c5da-0544-4df0-88dd-f2b2d3dc1494"
+          }
+        ]
+      },
+      {
+        "id": "117be312-c6f8-4c9b-a5c6-1639ca27e73b",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2021-08-15T15:12:39.704Z",
+        "updatedAt": "2021-08-15T16:06:29.545Z",
+        "slug": "boomerang",
+        "name": "Boomerang",
+        "description": "Une arme de jet à forme recourbée que certaines personnes utilisaient pour la chasse.",
+        "effects": null,
+        "physicalStrength": 41,
+        "physicalDefense": 56,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": "6",
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "1c021049-b1c9-4c2d-be39-ede86164c3a7",
+        "skill_id": "6e161a15-ab9f-4230-85b6-94ce7f076d2a",
+        "locations": [
+          {
+            "id": "c7d0ff4d-df02-4335-8cee-6dcc40425cea"
+          }
+        ]
+      },
+      {
+        "id": "18a05541-fc97-469a-ae1e-828a5c62f26f",
+        "isActive": true,
+        "picture": "equipements/gants-de-cuir.jpg",
+        "createdAt": "2020-04-18T16:56:44.812Z",
+        "updatedAt": "2020-04-18T16:56:44.812Z",
+        "slug": "gants-de-cuir",
+        "name": "Gants de cuir",
+        "description": "Une paire de gants en cuir dont les marques d'usure témoignent de longues heures d'entrainement.",
+        "effects": null,
+        "physicalStrength": 32,
+        "physicalDefense": 22,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "647864ee-9c0b-4f81-97b5-dae90cb96e60",
+        "locations": [
+          {
+            "id": "a74d5015-7068-49c0-84d4-6014e7290e3e"
+          }
+        ]
+      },
+      {
+        "id": "bc6244f9-b478-43e0-b838-6fea279ad309",
+        "isActive": true,
+        "picture": "equipements/batte-cloutee.jpg",
+        "createdAt": "2020-04-18T21:20:16.020Z",
+        "updatedAt": "2020-04-19T16:44:22.968Z",
+        "slug": "batte-cloutee",
+        "name": "Batte cloutée",
+        "description": "Une batte améliorée à l'aide de clous afin d'infliger d'importants dégâts aux ennemis.",
+        "effects": null,
+        "physicalStrength": 30,
+        "physicalDefense": 30,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "-",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "145998e8-28db-4d03-acd8-35294fa75a0e",
+        "locations": [
+          {
+            "id": "51e22ef2-e995-40ee-afc1-328e97e2df8d"
+          },
+          {
+            "id": "584ae766-19f0-40f5-b428-34dccfecdd41"
+          },
+          {
+            "id": "21c68999-55a8-48df-968f-ec1b9b5778cb"
+          }
+        ]
+      },
+      {
+        "id": "40197465-2525-4082-9acb-469117b23de7",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2021-08-15T16:09:03.761Z",
+        "updatedAt": "2021-08-15T16:13:12.717Z",
+        "slug": "faucheur-triple",
+        "name": "Faucheur triple",
+        "description": "Un redoutable shuriken formé de trois lames de faucilles.",
+        "effects": null,
+        "physicalStrength": 59,
+        "physicalDefense": 44,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": "5",
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "1c021049-b1c9-4c2d-be39-ede86164c3a7",
+        "skill_id": "fdb172d2-25fe-4e72-93f8-1c5222b4be97",
+        "locations": [
+          {
+            "id": "7dfe9e42-64ca-4e76-acc0-e6eae62638a5"
+          }
+        ]
+      },
+      {
+        "id": "dc405bd8-362c-4026-bf53-3908861d4715",
+        "isActive": true,
+        "picture": "equipements/baton-de-frappe.jpg",
+        "createdAt": "2020-04-25T10:12:17.523Z",
+        "updatedAt": "2020-04-25T10:22:40.347Z",
+        "slug": "baton-de-frappe",
+        "name": "Baton de frappe",
+        "description": "Un bâton dans les extrémités ont été pourvues de lames tranchantes, requérant de l'utiliser avec une extrême précaution.",
+        "effects": null,
+        "physicalStrength": 38,
+        "physicalDefense": 34,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "fb035dfc-9cf4-41ae-9125-81374322fe0f",
+        "locations": [
+          {
+            "id": "3f5d5f48-557f-4fe9-927a-0b8d7f22a2fd"
+          }
+        ]
+      },
+      {
+        "id": "ecab141c-a97a-44af-9661-0725a6f1c16a",
+        "isActive": true,
+        "picture": "equipements/boulet-de-canon.jpg",
+        "createdAt": "2020-04-27T20:00:59.537Z",
+        "updatedAt": "2020-04-27T20:03:59.411Z",
+        "slug": "boulet-de-canon",
+        "name": "Boulet de canon",
+        "description": "Une arme de corps-à-corps qui permet de frapper violemment les ennemis grâce au boulet de canon fixé à son extrémité.",
+        "effects": null,
+        "physicalStrength": 65,
+        "physicalDefense": 0,
+        "magicalStrength": 17,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "44ecc81c-4e78-47d0-974a-73b9e6e071be",
+        "locations": [
+          {
+            "id": "63b6105f-1b33-46a2-aa2d-c5692450dfe4"
+          },
+          {
+            "id": "bbc6a64b-66f7-4304-bbfd-a6ed1c75d568"
+          }
+        ]
+      },
+      {
+        "id": "ced84cb1-6217-43a4-8e40-93cc9bfb4ca3",
+        "isActive": true,
+        "picture": "equipements/epee-broyeuse.jpg",
+        "createdAt": "2020-04-18T16:56:44.807Z",
+        "updatedAt": "2020-04-18T16:56:44.807Z",
+        "slug": "epee-broyeuse",
+        "name": "Epée broyeuse",
+        "description": "Une immense épée imprégnée des espoirs de combattants.",
+        "effects": null,
+        "physicalStrength": 22,
+        "physicalDefense": 22,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "f4b52162-ebdf-4a3e-89cc-3adfdeb9e9bc",
+        "locations": [
+          {
+            "id": "d71fc2f7-1472-4273-a813-2f591aa7d1ad"
+          }
+        ]
+      },
+      {
+        "id": "e3d1aaf9-9d88-4e47-a07f-83a38c52b646",
+        "isActive": true,
+        "picture": "equipements/baton-de-defense.jpg",
+        "createdAt": "2020-04-18T16:56:44.819Z",
+        "updatedAt": "2020-04-18T16:56:44.819Z",
+        "slug": "baton-de-defense",
+        "name": "Bâton de défense",
+        "description": "Un bâton très ancien qui a été préservé et entretenu avec grand soin.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 29,
+        "magicalDefense": 43,
+        "materiaSlots": "o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "d636dfb1-9b90-4fb2-880e-c88b2f57b2f3",
+        "locations": [
+          {
+            "id": "45f764e8-6e96-4270-9650-46b028fae899"
+          }
+        ]
+      },
+      {
+        "id": "10b8faab-116f-4f7b-896b-8e2a0d94cedd",
+        "isActive": true,
+        "picture": "equipements/lame-d-acier.jpg",
+        "createdAt": "2020-04-18T16:56:44.810Z",
+        "updatedAt": "2020-04-18T16:56:44.810Z",
+        "slug": "lame-d-acier",
+        "name": "Lame d'acier",
+        "description": "Une immense épée forgée avec de l'acier sélectionné scrupuleusement.",
+        "effects": null,
+        "physicalStrength": 23,
+        "physicalDefense": 31,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "91041055-99b4-4052-abd2-6461a9a2ec72",
+        "locations": [
+          {
+            "id": "d61f014b-ed52-4c9d-ab89-96987a67d2b3"
+          }
+        ]
+      },
+      {
+        "id": "49da9229-f9e0-41a4-a61d-b56408b19610",
+        "isActive": true,
+        "picture": "equipements/fusil-d-assaut.jpg",
+        "createdAt": "2020-04-18T16:56:44.815Z",
+        "updatedAt": "2020-04-18T16:56:44.815Z",
+        "slug": "fusil-d-assaut",
+        "name": "Fusil d'assaut",
+        "description": "Un fusil d'assaut fixable au bras, dont la capacité du chargeur a été grandement améliorée.",
+        "effects": null,
+        "physicalStrength": 15,
+        "physicalDefense": 33,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "4a617f70-0b3d-421f-ad04-587628b9111f",
+        "locations": [
+          {
+            "id": "87ce2bca-a715-4b77-b4b2-fa76fb0cf2c9"
+          }
+        ]
+      },
+      {
+        "id": "3bf9762c-12cf-4970-8c73-c339abf45326",
+        "isActive": true,
+        "picture": "equipements/points-supersoniques.jpg",
+        "createdAt": "2020-04-18T16:56:44.817Z",
+        "updatedAt": "2020-04-18T16:56:44.817Z",
+        "slug": "points-supersoniques",
+        "name": "Points supersoniques",
+        "description": "Une paire de gants dans le design raffiné permet d'utiliser plus facilement les matérias.",
+        "effects": null,
+        "physicalStrength": 32,
+        "physicalDefense": 21,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "922f2bfc-a39a-42ea-a08d-f4f78d83683a",
+        "locations": [
+          {
+            "id": "13d44b85-accb-42fa-bb8e-892a4278dd62"
+          },
+          {
+            "id": "2a372544-c28e-471b-b39b-0e32d49a0929"
+          },
+          {
+            "id": "a0d925f0-3047-4d19-babf-32b0d6dedb41"
+          }
+        ]
+      },
+      {
+        "id": "3f141f3c-54f4-45ac-889b-693416b92d40",
+        "isActive": true,
+        "picture": "equipements/epee-brute.jpg",
+        "createdAt": "2020-04-19T15:02:01.242Z",
+        "updatedAt": "2020-04-19T16:44:54.719Z",
+        "slug": "epee-brute",
+        "name": "Epee brute",
+        "description": "Une puissante épée sur laquelle figure une inscription signifiant \"trancher dans le vif\".",
+        "effects": null,
+        "physicalStrength": 57,
+        "physicalDefense": 0,
+        "magicalStrength": 19,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "6cbec00c-0d1c-4db3-bba1-7238b3c72636",
+        "locations": [
+          {
+            "id": "23d21709-d086-4718-942b-f88b1394c169"
+          },
+          {
+            "id": "1500689c-4c48-4941-8db7-422c4e0fe528"
+          }
+        ]
+      },
+      {
+        "id": "39763511-c56b-475c-ba5b-c51e5b4de2fd",
+        "isActive": true,
+        "picture": "equipements/baton-en-argent.jpg",
+        "createdAt": "2020-04-18T16:56:44.822Z",
+        "updatedAt": "2020-04-18T16:56:44.822Z",
+        "slug": "baton-en-argent",
+        "name": "Bâton en argent",
+        "description": "Un élégant bâton orné de symboles en argent afin de faciliter l'utilisation de la magie.",
+        "effects": null,
+        "physicalStrength": 27,
+        "physicalDefense": 0,
+        "magicalStrength": 50,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "d86c504e-587e-474b-8f99-fbd66071ad53",
+        "locations": [
+          {
+            "id": "66ddb236-2e13-46ac-982d-78dfeb6ef8fc"
+          }
+        ]
+      },
+      {
+        "id": "21d9633a-a51e-444a-969b-6417d3dd0b92",
+        "isActive": true,
+        "picture": "equipements/baton-magique.jpg",
+        "createdAt": "2020-04-19T21:03:03.815Z",
+        "updatedAt": "2020-04-19T21:04:40.959Z",
+        "slug": "baton-magique",
+        "name": "Bâton magique",
+        "description": "Un bâton dont le pouvoir magique est amplifié par des gemmes crépusculaires, et qui permet d'utiliser plus facilement les matérias.",
+        "effects": null,
+        "physicalStrength": 24,
+        "physicalDefense": 36,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "2300fa84-2a37-4541-8018-29ac88864e08",
+        "locations": [
+          {
+            "id": "cfb93d0a-b473-4795-9302-b678e7048875"
+          },
+          {
+            "id": "23037618-f71d-4a35-83e6-96844a90df05"
+          },
+          {
+            "id": "c1d8dfbb-ee90-4b6c-afd1-8e74a5e9ef1c"
+          }
+        ]
+      },
+      {
+        "id": "dec13d6f-b75c-40a6-aedb-fdaabd40c711",
+        "isActive": true,
+        "picture": "equipements/gros-canon.jpg",
+        "createdAt": "2020-04-26T10:44:01.153Z",
+        "updatedAt": "2020-04-26T18:14:32.381Z",
+        "slug": "gros-canon",
+        "name": "Gros canon",
+        "description": "Une arme à feu fixable au bras très puissante et obtenue sur le marché noir des bidonvilles.",
+        "effects": null,
+        "physicalStrength": 45,
+        "physicalDefense": 0,
+        "magicalStrength": 30,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "52932090-4686-4ea4-95e6-d624e6bc1f42",
+        "locations": [
+          {
+            "id": "338e261a-453d-476d-8a11-77ba4ad3ac53"
+          },
+          {
+            "id": "b58fcaba-4350-4f48-b131-5c4e56ef3e3a"
+          }
+        ]
+      },
+      {
+        "id": "7bcac9a6-f78d-49cd-8986-b57117c8e11a",
+        "isActive": true,
+        "picture": "equipements/griffes-en-mithril.jpg",
+        "createdAt": "2020-04-26T18:15:29.969Z",
+        "updatedAt": "2020-04-26T18:19:17.106Z",
+        "slug": "griffes-en-mithril",
+        "name": "Griffes en mithril",
+        "description": "Une paire de gants pourvu de griffes forgées avec le minerai magique qui est le mithril.",
+        "effects": null,
+        "physicalStrength": 28,
+        "physicalDefense": 0,
+        "magicalStrength": 55,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "b75c8b4a-faf0-41cc-a0ce-c2c230fa60a7",
+        "locations": [
+          {
+            "id": "98c88353-2f32-458e-b318-15c163df3371"
+          }
+        ]
+      },
+      {
+        "id": "57c3cf83-7500-4ce6-9d87-7a7128a22f67",
+        "isActive": true,
+        "picture": "equipements/cisaille-atomique.jpg",
+        "createdAt": "2020-04-26T13:35:49.562Z",
+        "updatedAt": "2020-04-26T13:38:58.433Z",
+        "slug": "cisaille-atomique",
+        "name": "Cisaille atomique",
+        "description": "Une arme de combat rapproché fixe à mon bras, à laquelle a été ajouté une puissante cisaille métallique.",
+        "effects": null,
+        "physicalStrength": 53,
+        "physicalDefense": 0,
+        "magicalStrength": 39,
+        "magicalDefense": 0,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "005e4700-80cc-4d53-aac8-299e5d39e0df",
+        "locations": [
+          {
+            "id": "7791cd0b-6c62-443f-9cac-15f6e2941526"
+          }
+        ]
+      },
+      {
+        "id": "2c445669-c2b4-4a79-955a-52eb2cdc5b68",
+        "isActive": true,
+        "picture": "equipements/sabre-en-mithril.jpg",
+        "createdAt": "2020-04-26T20:22:40.521Z",
+        "updatedAt": "2020-04-26T20:27:32.071Z",
+        "slug": "sabre-en-mithril",
+        "name": "Sabre en mithril",
+        "description": "Une immense épée forgée avec le minerai magique qu'est le mithril.",
+        "effects": null,
+        "physicalStrength": 24,
+        "physicalDefense": 0,
+        "magicalStrength": 72,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "21c59689-ecf1-4aee-94e1-022660dcbd85",
+        "locations": [
+          {
+            "id": "a25a589c-5685-474e-ad79-878b85ba0f90"
+          },
+          {
+            "id": "c8267222-8287-45ec-b617-a0f71ded623e"
+          }
+        ]
+      },
+      {
+        "id": "317104ed-b3d4-4ca2-bb8e-5a39447b2bbe",
+        "isActive": true,
+        "picture": "equipements/gants-majestueux.jpg",
+        "createdAt": "2020-05-01T12:48:42.690Z",
+        "updatedAt": "2020-05-18T19:59:53.097Z",
+        "slug": "gants-majestueux",
+        "name": "Gants majestueux",
+        "description": "Une paire de gants fabriqués avec la peau d'une créature sauvage.",
+        "effects": null,
+        "physicalStrength": 51,
+        "physicalDefense": 0,
+        "magicalStrength": 41,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "45d21d7c-03a3-41ad-ac5e-47387571a23d",
+        "locations": [
+          {
+            "id": "5be83c46-2ce2-4ea9-b772-0b3cae0d264f"
+          }
+        ]
+      },
+      {
+        "id": "515d169a-461c-4a9d-ada6-4e63acf9ccf8",
+        "isActive": true,
+        "picture": "equipements/gants-a-plumes.jpg",
+        "createdAt": "2020-04-21T21:07:25.820Z",
+        "updatedAt": "2020-04-26T08:42:15.212Z",
+        "slug": "gants-a-plumes",
+        "name": "Gants à plumes",
+        "description": "Une paire de gants légers et faciles à enfiler, qui ont été orné de plumes.",
+        "effects": null,
+        "physicalStrength": 50,
+        "physicalDefense": 33,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "d9db34fd-dee2-42ac-8c71-617cc1fad411",
+        "locations": [
+          {
+            "id": "597e77fc-c62d-4d36-84b3-87bdad827f1f"
+          }
+        ]
+      },
+      {
+        "id": "7b4b83f8-b938-447c-9a94-b0a8cb11464b",
+        "isActive": true,
+        "picture": "equipements/baton-en-metal-renforce.jpg",
+        "createdAt": "2020-05-01T17:31:02.668Z",
+        "updatedAt": "2020-05-01T17:35:14.063Z",
+        "slug": "baton-en-metal-renforce",
+        "name": "Bâton en métal renforcé",
+        "description": "Un bâton robuste mis au point au laboratoire du professeur Hôjô en étudiant les us et coutume des anciens.",
+        "effects": null,
+        "physicalStrength": 50,
+        "physicalDefense": 0,
+        "magicalStrength": 82,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7af1ba48-7f3b-43ab-8d72-12a908445824",
+        "skill_id": "d4d5ac81-1271-4e3b-a66e-9e72a1e4d718",
+        "locations": [
+          {
+            "id": "7bfa0af4-502c-4e9f-b037-ad8b947f6c68"
+          }
+        ]
+      },
+      {
+        "id": "0fc63b8c-65ce-4de5-9fcc-a00abe18b07a",
+        "isActive": true,
+        "picture": "equipements/lame-jumelee.jpg",
+        "createdAt": "2020-05-01T19:03:53.897Z",
+        "updatedAt": "2020-05-01T19:08:16.200Z",
+        "slug": "lame-jumelee",
+        "name": "Lame jumelée",
+        "description": "Une épée forgée en associant deux lames et permettant d'exploiter pleinement les matérias.",
+        "effects": null,
+        "physicalStrength": 46,
+        "physicalDefense": 0,
+        "magicalStrength": 46,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "a6c54dae-0ed7-4379-aac9-60cc92276819",
+        "skill_id": "4a4128ee-7c66-4962-ae53-9e351d89f89b",
+        "locations": [
+          {
+            "id": "d5ab6da0-724f-4c1a-8647-a15a2390cf97"
+          }
+        ]
+      },
+      {
+        "id": "37b7ecb6-9267-48f2-968d-9faa6133e721",
+        "isActive": true,
+        "picture": "equipements/gants-renforces.jpg",
+        "createdAt": "2020-04-18T16:56:44.813Z",
+        "updatedAt": "2020-04-18T16:56:44.813Z",
+        "slug": "gants-renforces",
+        "name": "Gants renforcés",
+        "description": "Une paire de gants dans les jointures ont été renforcées avec de l'acier pour infliger davantage de dégâts.",
+        "effects": null,
+        "physicalStrength": 54,
+        "physicalDefense": 12,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "26f1db69-b993-47d9-b207-e6ad2f39bb85",
+        "skill_id": "839ec613-7013-4d8a-a749-d1ac8b93336d",
+        "locations": []
+      },
+      {
+        "id": "ff2fdf8c-2945-4db5-8f07-c50f9a2899ab",
+        "isActive": true,
+        "picture": "",
+        "createdAt": "2020-05-29T19:44:59.342Z",
+        "updatedAt": "2020-05-29T19:47:35.214Z",
+        "slug": "pulsateur",
+        "name": "Pulsateur",
+        "description": "Une arme à feu fixable au bras dont la précision varie en fonction de l'état psychologique de sont utilisateur",
+        "effects": null,
+        "physicalStrength": 34,
+        "physicalDefense": 65,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o o o o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "8a9be0be-e20a-419d-a254-f45ed465ac4f",
+        "locations": []
+      },
+      {
+        "id": "a9eda73a-7e4d-4c8d-993f-7e499976b7e1",
+        "isActive": true,
+        "picture": "equipements/mitrailleuse-rotative.jpg",
+        "createdAt": "2020-04-18T16:56:44.821Z",
+        "updatedAt": "2020-04-18T16:56:44.821Z",
+        "slug": "mitrailleuse-rotative",
+        "name": "Mitrailleuse rotative",
+        "description": "Une mitrailleuse fixable au bras qui a été développé spécialement pour affronter les machines de guerre Shinra.",
+        "effects": null,
+        "physicalStrength": 19,
+        "physicalDefense": 19,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": "o",
+        "materiaMaxSlots": null,
+        "category_id": "44aa6f54-4e2e-45c6-9570-8faacfaa6328",
+        "character_id": "7c80930b-7a02-4b0b-8ada-2d7b2e777540",
+        "skill_id": "ee62af00-6a26-45b5-9b7f-8062d424e8e3",
+        "locations": []
+      }
+    ],
+    "armure": [
+      {
+        "id": "e1567089-4b0e-4259-adda-f027cad094fd",
+        "isActive": true,
+        "picture": "equipements/bracelet-bouclier.jpg",
+        "createdAt": "2020-04-25T19:44:10.480Z",
+        "updatedAt": "2020-04-25T19:45:06.022Z",
+        "slug": "bracelet-bouclier",
+        "name": "Bracelet bouclier",
+        "description": "Un bracelet en forme de petit bouclier dans lequel peuvent être inséré des matéria.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 53,
+        "magicalStrength": 0,
+        "magicalDefense": 12,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "1b545bb7-696f-40b9-b66f-80dbb70624fd"
+          },
+          {
+            "id": "6966b017-63db-4c16-b7f3-bdee9d2625f2"
+          },
+          {
+            "id": "cbee8cc9-b60d-494a-ba43-06ab0d23f5a3"
+          },
+          {
+            "id": "c249dc79-b472-4f5b-95d4-94ccd91f5ce5"
+          },
+          {
+            "id": "b103f4bb-27f1-4f5d-9741-55ccef2e0b42"
+          }
+        ]
+      },
+      {
+        "id": "29b08e15-00ad-4168-af24-314049983337",
+        "isActive": true,
+        "picture": "equipements/bracelet-machina.jpg",
+        "createdAt": "2020-05-01T12:46:58.753Z",
+        "updatedAt": "2020-05-01T12:47:40.569Z",
+        "slug": "bracelet-machina",
+        "name": "Bracelet machina",
+        "description": "Un bracelet orné de mécanismes symbolisant les rouages du destin.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 39,
+        "magicalStrength": 0,
+        "magicalDefense": 29,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "ac7523b7-7774-4614-9510-627b07b46025"
+          },
+          {
+            "id": "d4c21999-cee5-40e5-a2ab-e99dcff54a84"
+          }
+        ]
+      },
+      {
+        "id": "f43c4b82-2d63-4f32-8173-2f5f4cd4a5ca",
+        "isActive": true,
+        "picture": "equipements/bracelet-en-fer.jpg",
+        "createdAt": "2020-04-18T16:56:44.634Z",
+        "updatedAt": "2020-04-18T16:56:44.634Z",
+        "slug": "bracelet-en-fer",
+        "name": "Bracelet en fer",
+        "description": "Un bracelet en fer offrant une bonne protection par rapport à son prix.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 16,
+        "magicalDefense": 16,
+        "materiaSlots": "o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "115ca15c-8a43-421b-9b82-d2d060b427cf"
+          },
+          {
+            "id": "e767a09e-5d66-4643-8577-c66ec7002796"
+          },
+          {
+            "id": "e72ed3ee-6a86-44fc-811f-f6834114b12f"
+          },
+          {
+            "id": "70a108e1-e40e-4ea0-a8e3-d1c1bb4a7610"
+          },
+          {
+            "id": "6973e1d1-4518-43f0-8ede-c1a375ce7988"
+          },
+          {
+            "id": "979a80e6-6beb-414d-8b0b-e6bca3ef9a69"
+          }
+        ]
+      },
+      {
+        "id": "8dd4505c-7649-4d8f-b77c-253d2e56a43a",
+        "isActive": true,
+        "picture": "equipements/bracelet-astral.jpg",
+        "createdAt": "2020-04-18T16:56:44.638Z",
+        "updatedAt": "2020-04-18T16:56:44.638Z",
+        "slug": "bracelet-astral",
+        "name": "Bracelet astral",
+        "description": "Un bracelet mis au point par un artisan afin de faciliter l'utilisation de materias.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 3,
+        "magicalDefense": 3,
+        "materiaSlots": "o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "ffe47a4d-8209-4714-aedc-71ee67976690"
+          },
+          {
+            "id": "dd38aaec-be1e-419e-97dc-eda43165e132"
+          },
+          {
+            "id": "0b6157ae-21a5-4d60-99d0-5026d2033d13"
+          },
+          {
+            "id": "fdcfb166-3305-4205-ac3d-cc9e1425e8a2"
+          },
+          {
+            "id": "0474765b-6308-4b59-aca2-d2e11e42fbb1"
+          }
+        ]
+      },
+      {
+        "id": "b9f6aa6b-c95a-42d7-827d-2744f3ebbcee",
+        "isActive": true,
+        "picture": "equipements/bracelet-tenebreux.jpg",
+        "createdAt": "2020-04-18T16:56:44.655Z",
+        "updatedAt": "2020-04-18T16:56:44.655Z",
+        "slug": "bracelet-tenebreux",
+        "name": "Bracelet ténébreux",
+        "description": "Un bracelet mise au point par la compagnie Shinra afin de permettre une utilisation efficace des matérias.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 5,
+        "magicalDefense": 5,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "f743c826-02c9-4814-9bfe-99a6588bfb8a"
+          },
+          {
+            "id": "30b48fe9-8adf-447c-a566-f0ab87f64966"
+          },
+          {
+            "id": "c258341d-91e6-4509-b962-03b21f258645"
+          },
+          {
+            "id": "5e3a1e76-b71b-4291-8cc5-47f211fc394d"
+          },
+          {
+            "id": "0018d9df-41f4-4238-8163-def0e7095c52"
+          },
+          {
+            "id": "ec0b4ace-3838-4e76-9c9f-4f57971b9d0a"
+          }
+        ]
+      },
+      {
+        "id": "74468405-ecb1-4053-a6ff-db5394f74166",
+        "isActive": true,
+        "picture": "equipements/bracelet-de-magie.jpg",
+        "createdAt": "2020-04-18T16:56:44.650Z",
+        "updatedAt": "2020-04-18T16:56:44.650Z",
+        "slug": "bracelet-de-magie",
+        "name": "Bracelet de magie",
+        "description": "Un bracelet d'apparence simple sur lequel ont été dessinés des symboles protégeant contre la magie.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 6,
+        "magicalDefense": 26,
+        "materiaSlots": "o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "422fb1e3-3bb0-4f2f-ab13-4ac876ac3ef2"
+          },
+          {
+            "id": "fa63c66c-6875-4f03-acf6-86862fc00f89"
+          },
+          {
+            "id": "cdcae720-0f03-4c95-ad67-1ceac1bf22bc"
+          },
+          {
+            "id": "14174b92-4269-4fac-b0dd-95155fee273c"
+          }
+        ]
+      },
+      {
+        "id": "c5ace3ae-0f5e-48c6-9202-270a5d5698e4",
+        "isActive": true,
+        "picture": "equipements/bracelet-cloute.jpg",
+        "createdAt": "2020-04-18T18:48:44.763Z",
+        "updatedAt": "2020-04-18T18:49:55.884Z",
+        "slug": "bracelet-cloute",
+        "name": "Bracelet clouté",
+        "description": "Un bracelet hérissé de clous afin de symboliser le combat contre la compagnie Shinra.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 40,
+        "magicalDefense": 10,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "90905ef6-19cb-410a-b500-2a0480e7dbe8"
+          },
+          {
+            "id": "1375594d-ec77-4dcf-a7ae-bcb9db3c84ca"
+          },
+          {
+            "id": "5d995514-258c-4b48-b854-7cbb6eaa13b4"
+          },
+          {
+            "id": "911fc056-7788-49fa-ab9b-79da839e6181"
+          },
+          {
+            "id": "c63f673d-de85-437c-bd52-787f2442c097"
+          }
+        ]
+      },
+      {
+        "id": "451adf6a-6d67-4a86-9b1a-6fc09ebdbe47",
+        "isActive": true,
+        "picture": "equipements/bracelet-en-mithril.jpg",
+        "createdAt": "2020-04-18T16:56:44.653Z",
+        "updatedAt": "2020-04-18T16:56:44.653Z",
+        "slug": "bracelet-en-mithril",
+        "name": "Bracelet en mithril",
+        "description": "Un bracelet en mithril qui a été particulièrement conçu pour repousser la magie.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 10,
+        "magicalDefense": 40,
+        "materiaSlots": "o=o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "096700f2-cc73-4ea5-a34c-c2dbae3cc4d9"
+          },
+          {
+            "id": "cf902c20-f728-403e-bdcf-7eb2687d54a0"
+          },
+          {
+            "id": "9d090292-9580-4b11-a894-0bfb734a5141"
+          },
+          {
+            "id": "58561ec1-e825-4f71-8e8e-af66b20285e4"
+          },
+          {
+            "id": "4b461201-d67f-4036-88f8-18842683f58c"
+          },
+          {
+            "id": "ec1eb438-1b42-46c6-b1a2-2365a4f67b7b"
+          }
+        ]
+      },
+      {
+        "id": "1ef8f233-4415-49c3-8447-63a587431125",
+        "isActive": true,
+        "picture": "equipements/bracelet-de-magicien.jpg",
+        "createdAt": "2020-04-26T07:52:23.298Z",
+        "updatedAt": "2020-04-26T07:55:33.485Z",
+        "slug": "bracelet-de-magicien",
+        "name": "Bracelet de magicien",
+        "description": "Un bracelet pour magicien, qui permet d'utiliser une variété de matérias.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 7,
+        "magicalStrength": 0,
+        "magicalDefense": 7,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "45874278-8890-4a1b-903d-8c1a972510d1"
+          },
+          {
+            "id": "3ca7874a-7bb8-44ff-b088-6b3409bac1cd"
+          },
+          {
+            "id": "fd8a924c-09bb-4e9c-9459-22e62901e695"
+          }
+        ]
+      },
+      {
+        "id": "bcc23bdd-29ce-43d2-96be-48691706e64d",
+        "isActive": true,
+        "picture": "equipements/bracelet-de-sorcier.jpg",
+        "createdAt": "2020-04-26T07:57:02.606Z",
+        "updatedAt": "2020-04-26T08:00:04.805Z",
+        "slug": "bracelet-de-sorcier",
+        "name": "Bracelet de sorcier",
+        "description": "Un bracelet dont les emplacements de matéria permet de protéger contre la magie.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 13,
+        "magicalStrength": 0,
+        "magicalDefense": 53,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "c5752abc-47ea-4dc6-a6bb-cb4970976f33"
+          },
+          {
+            "id": "b34020a9-f952-414e-b286-002412315baa"
+          },
+          {
+            "id": "31a8fd5f-01f3-4625-a131-3565df1dfb41"
+          },
+          {
+            "id": "41c26498-7ea2-4cb1-905b-23b2bd08f19c"
+          }
+        ]
+      },
+      {
+        "id": "33ea49cf-4fc2-4c2c-8980-3852fced0695",
+        "isActive": true,
+        "picture": "equipements/bague-batracienne.jpg",
+        "createdAt": "2020-04-26T13:43:02.673Z",
+        "updatedAt": "2020-04-26T13:44:36.649Z",
+        "slug": "bague-batracienne",
+        "name": "Bague batracienne",
+        "description": "Une bague qui donne envie de coasser à celui qui le porte.",
+        "effects": "Inflige l'altération d'état Crapaud en combat.",
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 0,
+        "magicalDefense": 0,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "f15e5881-0a9f-4c87-9634-b5820b19a4bb"
+          },
+          {
+            "id": "81d50d96-0ea2-47ae-874e-359f0ac466d5"
+          }
+        ]
+      },
+      {
+        "id": "922b4570-e7a5-474f-bb88-b74459dc6bc3",
+        "isActive": true,
+        "picture": "equipements/bracelet-geometrique.jpg",
+        "createdAt": "2020-05-01T15:11:24.564Z",
+        "updatedAt": "2020-05-01T15:12:13.563Z",
+        "slug": "bracelet-geometrique",
+        "name": "Bracelet géométrique",
+        "description": "Un bracelet utilisant une configuration géométrique pour favoriser les associations de matérias.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 8,
+        "magicalStrength": 0,
+        "magicalDefense": 8,
+        "materiaSlots": "o=o o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "50860899-561a-459e-99a0-e9605660f558"
+          }
+        ]
+      },
+      {
+        "id": "7f008d24-c4d6-4347-a758-d9c278dbad4a",
+        "isActive": true,
+        "picture": "equipements/bracelet-supreme.jpg",
+        "createdAt": "2020-05-01T15:12:34.341Z",
+        "updatedAt": "2020-05-01T15:13:37.846Z",
+        "slug": "bracelet-supreme",
+        "name": "Bracelet suprême",
+        "description": "Un bracelet mis au point par la compagne Shinra pour ses unités d'élite.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 62,
+        "magicalStrength": 0,
+        "magicalDefense": 62,
+        "materiaSlots": "o=o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "538e320d-6c2f-45f2-811c-81ee74227f97"
+          }
+        ]
+      },
+      {
+        "id": "104268a4-6a0e-4329-bd94-f3f7f2048eb3",
+        "isActive": true,
+        "picture": "equipements/bracelet-en-bronze.jpg",
+        "createdAt": "2020-04-18T16:56:44.636Z",
+        "updatedAt": "2020-04-18T18:16:42.039Z",
+        "slug": "bracelet-en-bronze",
+        "name": "Bracelet en bronze",
+        "description": "Un bracelet en bronze assez commun du fait de son bas prix.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 10,
+        "magicalDefense": 10,
+        "materiaSlots": "",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "4fc39770-5a0a-450a-91ac-c17db5f158f8"
+          }
+        ]
+      },
+      {
+        "id": "6599e7f2-af9a-4bde-b7c7-babdddf59d3b",
+        "isActive": true,
+        "picture": "equipements/protection-en-cuir.jpg",
+        "createdAt": "2020-04-18T16:56:44.648Z",
+        "updatedAt": "2020-04-18T16:56:44.648Z",
+        "slug": "protection-en-cuir",
+        "name": "Protection en cuir",
+        "description": "Un bracelet de facture sommaire fabriqué par la milice du bidonville du secteur 7.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 26,
+        "magicalDefense": 6,
+        "materiaSlots": "o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "e1e60c42-5db1-4fab-87f3-bb6f7d872bc1"
+          },
+          {
+            "id": "8aaa81ca-042c-4996-becf-134c5ea1dcc3"
+          },
+          {
+            "id": "abe2d42d-64b0-4001-9561-4ae582c0ff10"
+          },
+          {
+            "id": "6cbffb97-5259-4864-86ef-7a5a88eae883"
+          }
+        ]
+      },
+      {
+        "id": "6bb1b2b7-b405-4352-a487-3eddded8f758",
+        "isActive": true,
+        "picture": "equipements/bracelet-en-titane.jpg",
+        "createdAt": "2020-04-18T16:56:44.651Z",
+        "updatedAt": "2020-04-18T16:56:44.651Z",
+        "slug": "bracelet-en-titane",
+        "name": "Bracelet en titane",
+        "description": "Un bracelet en titane comme ceux de la compagnie Shinra fournit à ses forces de sécurité.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 25,
+        "magicalDefense": 25,
+        "materiaSlots": "o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "6d2302ca-7ea8-4f1f-bb8e-1938ad0b098c"
+          },
+          {
+            "id": "4c273f55-04e6-45e2-afeb-6c71807f9ec8"
+          },
+          {
+            "id": "0f83a2b4-e064-449b-9d0a-f8d42ca7e602"
+          },
+          {
+            "id": "7e42ee7f-f962-41d2-972a-62226eb83486"
+          },
+          {
+            "id": "a08e9cd1-5b8c-4e2b-962c-c84881d361d3"
+          },
+          {
+            "id": "dc6d024f-a1ed-435c-a687-8818a769d17a"
+          }
+        ]
+      },
+      {
+        "id": "8b27dd50-66e0-4b7e-820c-5f4ec61b6e54",
+        "isActive": true,
+        "picture": "equipements/bracelet-gothique.jpg",
+        "createdAt": "2020-04-25T08:36:22.561Z",
+        "updatedAt": "2020-04-25T08:39:24.927Z",
+        "slug": "bracelet-gothique",
+        "name": "Bracelet gothique",
+        "description": "Un bracelet orné de décoration de style gothique et très populaire auprès des jeunes.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 0,
+        "magicalStrength": 23,
+        "magicalDefense": 23,
+        "materiaSlots": "o o o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "d6f8caed-8735-4f9d-98fd-088e5ff7520f"
+          },
+          {
+            "id": "8a1fff41-cbb8-4192-a58d-715c5bc0a4ef"
+          },
+          {
+            "id": "e960eedd-4852-4339-b188-08a47b6685e0"
+          },
+          {
+            "id": "a6a5c82c-5bfe-4401-b204-239f2c7b06be"
+          }
+        ]
+      },
+      {
+        "id": "457262d4-9eef-43ad-9880-bd0828967cf6",
+        "isActive": true,
+        "picture": "equipements/bracelet-en-metal-lourd.jpg",
+        "createdAt": "2020-05-01T13:06:36.615Z",
+        "updatedAt": "2020-05-01T13:07:56.770Z",
+        "slug": "bracelet-en-metal-lourd",
+        "name": "Bracelet en métal lourd",
+        "description": "Un bracelet en métal au dépourvu d'emplacement pour matéria afin de mieux protéger contre les attaques physiques.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 124,
+        "magicalStrength": 0,
+        "magicalDefense": 20,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "c5cd0330-54c4-41ea-bd7a-0fffbb999079"
+          }
+        ]
+      },
+      {
+        "id": "049cef17-4cb8-414a-87f0-ccd45b74688b",
+        "isActive": true,
+        "picture": "equipements/bracelet-runique.jpg",
+        "createdAt": "2020-05-01T15:14:03.293Z",
+        "updatedAt": "2020-05-01T15:14:50.232Z",
+        "slug": "bracelet-runique",
+        "name": "Bracelet runique",
+        "description": "un bracelet conçu avec des matériaux naturels anciens et qui recèle une grande énergie magique.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 16,
+        "magicalStrength": 0,
+        "magicalDefense": 62,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "98e39569-d523-42a1-82fa-96c942666707"
+          }
+        ]
+      },
+      {
+        "id": "4028109d-2ca6-4e96-b94d-d35dd2c5919b",
+        "isActive": true,
+        "picture": "equipements/bracelet-de-puissance.jpg",
+        "createdAt": "2020-05-01T19:48:06.522Z",
+        "updatedAt": "2020-05-01T19:48:50.840Z",
+        "slug": "bracelet-de-puissance",
+        "name": "Bracelet de puissance",
+        "description": "Un bracelet utilisant une monture cruciforme afin de permettre la résonance entre les matérias.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 9,
+        "magicalStrength": 0,
+        "magicalDefense": 9,
+        "materiaSlots": "o=o o=o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "22292962-5fb3-4b7f-afb6-ccbb1567cd47"
+          }
+        ]
+      },
+      {
+        "id": "3f405bd8-1c27-4295-adc4-c43e8d21429f",
+        "isActive": true,
+        "picture": "equipements/bracelet-mystique.jpg",
+        "createdAt": "2020-05-01T20:07:36.092Z",
+        "updatedAt": "2020-05-01T20:08:51.284Z",
+        "slug": "bracelet-mystique",
+        "name": "Bracelet mystique",
+        "description": "Un bracelet mystérieux et dépourvu d'emplacements pour matéria afin de mieux protéger son porteur contre la magie.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 20,
+        "magicalStrength": 0,
+        "magicalDefense": 124,
+        "materiaSlots": null,
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "ab51e079-36ea-4943-8e00-8a3a9f38f57c"
+          }
+        ]
+      },
+      {
+        "id": "65b397c9-f69a-4c06-906b-1c673d488216",
+        "isActive": true,
+        "picture": "",
+        "createdAt": "2020-05-01T20:26:19.037Z",
+        "updatedAt": "2020-05-01T20:30:05.471Z",
+        "slug": "bracelet-connectif",
+        "name": "Bracelet connectif",
+        "description": "Un bracelet mis au point de manière à faciliter l'association de materia.",
+        "effects": null,
+        "physicalStrength": 0,
+        "physicalDefense": 50,
+        "magicalStrength": 0,
+        "magicalDefense": 50,
+        "materiaSlots": "o=o o=o",
+        "materiaMaxSlots": null,
+        "category_id": "2f115687-0332-4d9a-a037-f44d669a2561",
+        "locations": [
+          {
+            "id": "df3964a1-1a24-4064-936d-d8a38a73deec"
+          }
+        ]
+      }
+    ]
+  }
+}

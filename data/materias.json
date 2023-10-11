@@ -1,0 +1,1685 @@
+{
+  "materiasCategorized": {
+    "magique": [
+      {
+        "id": "1cd7d358-5bac-4aaa-8cb8-fed5010c33ff",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.694Z",
+        "updatedAt": "2021-08-17T13:25:16.282Z",
+        "slug": "soins",
+        "name": "Soins",
+        "description": "Materia permettant d'utiliser des sorts de soins.",
+        "attributesEffects": null,
+        "levelMax": 4,
+        "level1Effects": "Permet d'utiliser Soin",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Soin",
+        "level3Effects": "Permet d'utiliser Récupération",
+        "level3AP": 450,
+        "level4Effects": "Permet d'utiliser Méga-Soin",
+        "level4AP": 450,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "15026faf-3bbd-486c-9cdd-6760b1d85bb8"
+          },
+          {
+            "id": "47c0be19-7af9-45ab-8f5e-2a25905f8300"
+          },
+          {
+            "id": "0d724b6a-b5c5-458d-8a60-2d8f659cb145"
+          },
+          {
+            "id": "66f93bcf-ccab-4c3b-819c-26ca30b47eaa"
+          },
+          {
+            "id": "3c305dca-51d8-4168-bb79-2a495f3c017a"
+          },
+          {
+            "id": "3bfeefb7-a039-41a6-8f78-5b3566d2ffe2"
+          },
+          {
+            "id": "1a5e66ea-e33c-4047-bc55-8a5c959746ae"
+          },
+          {
+            "id": "4d6875a1-bf23-4ae0-bdd4-705ea1c10659"
+          },
+          {
+            "id": "a55429d1-e5d0-4d6b-bd53-4ec788b02568"
+          },
+          {
+            "id": "b83ad7c2-eb35-4da4-92ef-91d97b08f9f6"
+          },
+          {
+            "id": "799f8977-d1e5-4b4c-a23f-e6a5e394675d"
+          },
+          {
+            "id": "e182c98e-e826-4ea9-9a5c-3ab7cc7d50e8"
+          }
+        ]
+      },
+      {
+        "id": "431a65b4-ad24-40bb-bc26-e06bdc71d815",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.697Z",
+        "updatedAt": "2021-08-17T13:22:31.258Z",
+        "slug": "remedes",
+        "name": "Remèdes",
+        "description": "Materia permettant d'utiliser des sorts de remède.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Sérum",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Guérison",
+        "level3Effects": "Permet d'utiliser Résistance",
+        "level3AP": 500,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "04aaaad2-1c89-4467-ad97-23a261378d0f"
+          },
+          {
+            "id": "287ecad8-6b53-4e23-bb0f-23bab942e77a"
+          },
+          {
+            "id": "8453e6d4-e2f7-4658-8b6f-f66eec426385"
+          },
+          {
+            "id": "d987f30a-a7c1-4dde-b607-f89a0ced74d2"
+          },
+          {
+            "id": "42069e75-eca2-4db3-b135-ad2a87b18fa6"
+          },
+          {
+            "id": "a7f85463-bed9-489e-a84d-b044edb1c979"
+          },
+          {
+            "id": "e24509d6-a474-4902-8bb3-54dfd57fb947"
+          },
+          {
+            "id": "c4c41274-c392-42da-9987-261d366c4944"
+          },
+          {
+            "id": "f7492dea-9794-4f7d-aade-a3135dacd6d7"
+          },
+          {
+            "id": "9db7f5c1-7e53-4e5f-8294-66fdfa674b89"
+          },
+          {
+            "id": "18167ba5-6760-46b3-a4e2-d49e4cc8abee"
+          },
+          {
+            "id": "c96d4b12-23b0-4b80-bab8-7ccf2a517a12"
+          }
+        ]
+      },
+      {
+        "id": "114f137c-ff35-4c29-a1c9-6e790b525c88",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.706Z",
+        "updatedAt": "2021-08-17T13:22:04.750Z",
+        "slug": "protection",
+        "name": "Protection",
+        "description": "Matéria permettant d'utiliser des sorts de protection.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Barrière physique",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Barrière magique",
+        "level3Effects": "Permet d'utiliser Mur",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "1806bbf6-ed90-491b-ae8f-0e517faaf0e4"
+          },
+          {
+            "id": "b40faad6-8cc2-406c-9226-05896f18f185"
+          },
+          {
+            "id": "c53c6c81-3785-435d-80fc-bf24488bde3a"
+          },
+          {
+            "id": "591cb0a3-06a5-48c6-87ae-de044cce84c9"
+          },
+          {
+            "id": "582edcb5-18e1-4853-8f8a-317d07581918"
+          },
+          {
+            "id": "48da5f3e-c487-496b-a15b-dd1d1339c10e"
+          },
+          {
+            "id": "914f07da-aded-47c4-9b6e-ac6fe27cec70"
+          },
+          {
+            "id": "e9516c6d-5d59-4455-a503-ac17b509c01d"
+          },
+          {
+            "id": "5da40521-2205-4a19-87c4-8bf2e9623d7f"
+          },
+          {
+            "id": "af1a0c31-c28e-46f0-a79e-59b1705c57f8"
+          },
+          {
+            "id": "52cbbd16-b6c1-4f31-8b9d-72ae03deedcf"
+          },
+          {
+            "id": "7c17098c-42da-42d2-af2a-bdcfe606c70d"
+          },
+          {
+            "id": "58c9e9b4-0d76-44cf-9e1a-6e89c3ccb128"
+          }
+        ]
+      },
+      {
+        "id": "bc59bf83-fc57-4b02-835c-05a7e8b5221c",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.709Z",
+        "updatedAt": "2021-08-17T13:21:33.316Z",
+        "slug": "venefice",
+        "name": "Vénéfice",
+        "description": "Materia permettant d'utiliser des sorts de vénéfice.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Toxine",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Toxine",
+        "level3Effects": "Permet d'utiliser Méga-Toxine",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "fbd89f61-8b38-47fe-a4a8-cce1df2aca7f"
+          },
+          {
+            "id": "7d5ffad6-6704-4ddb-bd66-b84f918867ca"
+          },
+          {
+            "id": "2b0b203e-ff42-4a03-a867-3e0fd4135ed3"
+          },
+          {
+            "id": "b684e8d0-62cb-4c8e-8e2e-4f195b2d02ba"
+          },
+          {
+            "id": "4a2879f7-f829-44c9-8945-11b00142e63d"
+          },
+          {
+            "id": "d76aedad-6e58-4c66-b291-8ed5bba5175b"
+          },
+          {
+            "id": "79b338d6-4a84-47de-9eb4-687665f86a6e"
+          },
+          {
+            "id": "f803f9a0-d140-4a40-af2f-2a90ed148baa"
+          },
+          {
+            "id": "35ee5ade-2315-4ac5-8b5f-3ec8de02d9c5"
+          },
+          {
+            "id": "28ae30ed-71e5-4d3b-8bbc-8bde9f7796e8"
+          },
+          {
+            "id": "c389b4c8-6106-4a6d-a9d2-84067a9e8cd0"
+          },
+          {
+            "id": "fb4bbe49-ea89-4f1d-8432-6f4336db1675"
+          },
+          {
+            "id": "24dae3b2-611a-4a9f-96bb-09155e64adae"
+          }
+        ]
+      },
+      {
+        "id": "c7c49521-fc83-43fe-b448-2712ddf5990d",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.718Z",
+        "updatedAt": "2020-04-18T16:56:44.718Z",
+        "slug": "resurection",
+        "name": "Résurection",
+        "description": "Matéria permettant d'utiliser les sorts de résurrection",
+        "attributesEffects": null,
+        "levelMax": 2,
+        "level1Effects": "Permet d'utiliser Vie",
+        "level2AP": 5000,
+        "level2Effects": "Permet d'utiliser Maxie-Vie",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "65049063-189d-46fe-89db-f58beaa79d83"
+          },
+          {
+            "id": "389fd9ad-dee3-46e8-9e9c-1ef2409f2d84"
+          },
+          {
+            "id": "6dc43a6b-9b0f-4ca0-85e0-9b5b0c896ff4"
+          },
+          {
+            "id": "1797505e-1d09-4e15-b1e2-d08af6dd0b33"
+          },
+          {
+            "id": "d040ab34-03c2-4f12-8b00-c471f91ca902"
+          },
+          {
+            "id": "6594ad08-e493-4de8-bf4a-99861ac643c7"
+          },
+          {
+            "id": "5f9a4375-34a8-4203-8384-be9f70e0845b"
+          },
+          {
+            "id": "8390efe5-1a58-4835-98dc-496802391fcc"
+          }
+        ]
+      },
+      {
+        "id": "a91fcb13-05a1-4e18-af4a-108f78ae6752",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.762Z",
+        "updatedAt": "2020-04-18T16:56:44.762Z",
+        "slug": "feu",
+        "name": "Feu",
+        "description": "Materia permettant d'utiliser des sorts de feu.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Feu",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Feu",
+        "level3Effects": "Permet d'utiliser Méga-Feu",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "8b7698ef-5422-414f-8d44-ba5b6398b1d1"
+          },
+          {
+            "id": "c272e239-ccf3-435c-a3cd-0fe2d8503ea5"
+          },
+          {
+            "id": "8740421d-637c-4795-8bac-1a8190cb86ac"
+          },
+          {
+            "id": "b1425a3d-6418-4141-ab7b-020fe9741986"
+          },
+          {
+            "id": "a32fa160-6613-4f86-b681-eaeb5d8c7197"
+          },
+          {
+            "id": "0e579894-bd90-4144-95d2-7a11d84107a2"
+          },
+          {
+            "id": "71eed69c-f01c-43be-b4dd-74684b4c28d0"
+          },
+          {
+            "id": "97093106-2180-45ad-bda8-8fd47e7fc725"
+          },
+          {
+            "id": "983c9e70-1cc1-4f62-a017-6c57fc4b354a"
+          },
+          {
+            "id": "7a6e21f7-871f-42b2-8417-bae989c46043"
+          },
+          {
+            "id": "9ea07d18-6d6b-4f20-9207-7a9cfd54af1b"
+          },
+          {
+            "id": "874acce6-24c3-4bed-a1ca-e275c51a6c56"
+          }
+        ]
+      },
+      {
+        "id": "b47c91b8-6c83-4207-84b7-d6bd57e50779",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.764Z",
+        "updatedAt": "2021-08-17T13:21:10.214Z",
+        "slug": "glace",
+        "name": "Glace",
+        "description": "Materia permettant d'utiliser des sorts de glace.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Glace",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Glace",
+        "level3Effects": "Permet d'utiliser Méga-Glace",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "6785a2df-faa6-429d-841a-ce110a2dc14c"
+          },
+          {
+            "id": "a5058236-7ee6-4094-9ee5-8b70925c0545"
+          },
+          {
+            "id": "20b3da1f-3094-4ebd-a0c5-bb15e69f0d09"
+          },
+          {
+            "id": "6f86efd1-3047-45a3-916d-513cefad9d36"
+          },
+          {
+            "id": "ec2b5f96-4d1d-46d8-b75a-bd6469cd80a7"
+          },
+          {
+            "id": "190503c7-fcd6-4a90-8df7-9ba4c634c9c6"
+          },
+          {
+            "id": "4d6d02da-e92a-4485-aeda-886fafeb28b9"
+          },
+          {
+            "id": "6d25e989-4121-4f7e-b4a3-06d48f5efe9d"
+          },
+          {
+            "id": "e688ecbe-80df-407b-a222-3926e5ad5aee"
+          },
+          {
+            "id": "5f87b1b4-5a0f-41a2-b041-af77d4abcdbe"
+          },
+          {
+            "id": "a7e3a94f-0b17-4e9e-9f20-849f8584c97e"
+          },
+          {
+            "id": "bf754956-9248-4b77-bc63-7d3955454190"
+          },
+          {
+            "id": "f5d87b7f-7657-4082-8f24-55a1f6213bdd"
+          }
+        ]
+      },
+      {
+        "id": "c3355c0f-e1d7-4eb9-9235-cb61db1cdcb9",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.765Z",
+        "updatedAt": "2021-08-17T13:20:50.494Z",
+        "slug": "foudre",
+        "name": "Foudre",
+        "description": "Materia permettant d'utiliser des sorts de foudre.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Foudre",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Foudre",
+        "level3Effects": "Permet d'utiliser Méga-Foudre",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "3e95f2aa-2ab2-4e68-bb9c-0b5a8688f063"
+          },
+          {
+            "id": "27b00c78-0262-4b75-9449-db3854e695f1"
+          },
+          {
+            "id": "3925505b-dab9-48a2-9d16-079a753fe56f"
+          },
+          {
+            "id": "7ff1eb91-0b42-4f30-bc97-4d6810575ac8"
+          },
+          {
+            "id": "8335bc1e-bed6-4e69-a664-349df2efb84a"
+          },
+          {
+            "id": "4f45fc27-ea32-4b56-aff7-ecf44cc48795"
+          },
+          {
+            "id": "fb0c59d8-e78d-4846-8e91-30b9d0be5946"
+          },
+          {
+            "id": "edd06529-8536-449f-9130-85cc7a691af2"
+          },
+          {
+            "id": "72320739-6c6e-4248-ab90-b3caf8ec23ca"
+          },
+          {
+            "id": "3c42769f-687a-470f-b136-f884726b8173"
+          },
+          {
+            "id": "e16d0e4d-4917-403b-bae9-2aab67e5fc5e"
+          },
+          {
+            "id": "a6045d25-7919-4a68-9c96-f4e5302b11d1"
+          }
+        ]
+      },
+      {
+        "id": "b7a101e3-a05b-4315-80a5-ae4434e1bcc0",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.768Z",
+        "updatedAt": "2021-08-17T13:20:40.522Z",
+        "slug": "vent",
+        "name": "Vent",
+        "description": "Materia permettant d'utiliser des sorts de vent.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Vent",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Extra-Vent",
+        "level3Effects": "Permet d'utiliser Méga-Vent",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "2adf0582-f69a-4f0c-a9f8-1e4b4da5b3df"
+          }
+        ]
+      },
+      {
+        "id": "30566505-27c4-4a76-97d7-6f73d19d3ce7",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-19T11:59:26.394Z",
+        "updatedAt": "2021-08-17T13:20:14.958Z",
+        "slug": "contrainte",
+        "name": "Contrainte",
+        "description": "Matéria permettant d'utiliser des sorts de contrainte.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Sommeil",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Silence",
+        "level3Effects": "Permet d'utiliser Furie",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "46b4ca47-b3f6-40ce-94a2-86da6a955e71"
+          },
+          {
+            "id": "972b3002-0bef-448a-9dea-7c2d222771f7"
+          },
+          {
+            "id": "c028d373-ab99-401b-8f7c-356aa9bce41e"
+          },
+          {
+            "id": "2041a7aa-e766-451d-8e50-06d371e5a47c"
+          },
+          {
+            "id": "89e63dc4-8e6c-48a6-bef9-7f5f68127b80"
+          },
+          {
+            "id": "c6d8d4e2-c281-4c12-b66e-033950d52716"
+          },
+          {
+            "id": "f1092481-ef5e-49f7-b14e-2c07c554312c"
+          },
+          {
+            "id": "c8ff1349-49c6-432b-9f2c-7b2cdfb8fccd"
+          }
+        ]
+      },
+      {
+        "id": "f837260a-4dd3-46d3-992d-5d61502b41d3",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-25T08:40:13.963Z",
+        "updatedAt": "2020-04-25T08:43:12.481Z",
+        "slug": "annihilation",
+        "name": "Annihilation",
+        "description": "Materia permettant d'utiliser des sort d'annihilation.\nResistance: Mort Subite",
+        "attributesEffects": "PM max +1\nAttaque magique +2\nDéfense magique +1\nMagie +1\nEsprit +1",
+        "levelMax": 2,
+        "level1Effects": "Permet d'utiliser Dissipe-Barrière",
+        "level2AP": 1200,
+        "level2Effects": "Permet d'utiliser Dissipation",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "6cfb3e34-02fb-41ee-86c2-9e073bf35f75"
+          },
+          {
+            "id": "77634036-ae3c-479e-b2d4-91bb17dba34f"
+          }
+        ]
+      },
+      {
+        "id": "447fb3d3-62bb-449c-b2cb-32be12eb7f7c",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-05-01T15:33:25.704Z",
+        "updatedAt": "2021-08-17T13:19:32.363Z",
+        "slug": "chronomancie",
+        "name": "Chronomancie",
+        "description": "Matéria permettant d'utiliser des sorts chronomancie.",
+        "attributesEffects": "Resistances: Lenteur/Stop",
+        "levelMax": 3,
+        "level1Effects": "Permet d'utiliser Hâte",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Lenteur",
+        "level3Effects": "Permet d'utiliser Stop",
+        "level3AP": 900,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "762c867a-ccec-4c6b-b5d8-02a875e0e505",
+        "locations": [
+          {
+            "id": "2b7957bf-6c00-4aea-b0eb-6bb35583907f"
+          },
+          {
+            "id": "1e455930-4692-40b6-9b94-ff2d903f7bbd"
+          }
+        ]
+      }
+    ],
+    "support": [
+      {
+        "id": "23f02c4d-fbf2-4936-a5be-975b5f0a6a5b",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.725Z",
+        "updatedAt": "2020-04-18T16:56:44.725Z",
+        "slug": "enchainement-magique",
+        "name": "Enchaînement magique",
+        "description": "Matériel permettant de lancer un sort de la matéria associée sur l'ennemi que le chef d'équipe a attaqué avec une commande. Matérias associables : Feu, Glace, Foudre, Vent et Vénéfice.",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": "Déclenche Enchaînement magique",
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "d1dcc811-2ea6-4379-a0b1-7a13ad36575c",
+        "locations": [
+          {
+            "id": "4bcd985d-a338-43e8-b808-4850a712629b"
+          }
+        ]
+      },
+      {
+        "id": "1685080f-fc4a-4cc3-b704-0c2fca63ce8d",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-19T13:42:54.741Z",
+        "updatedAt": "2021-08-17T13:28:56.259Z",
+        "slug": "aire-d-effet",
+        "name": "Aire d'effet",
+        "description": "Matéria permettant d'élargir l'effet de la matéria associé aux cibles alentours. L1 pour alterner entre cible unique/cible multiples dans la liste des commandes.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Permet d'élargir l'effet de la matéria associé possible alentours (effet -60% pour les cibles multiples).",
+        "level2AP": 500,
+        "level2Effects": "Permet d'élargir l'effet de la matéria associé possible alentours (effet -45% pour les cibles multiples).",
+        "level3Effects": "Permet d'élargir l'effet de la matéria associé possible alentours (effet -25% pour les cibles multiples).",
+        "level3AP": 1500,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "d1dcc811-2ea6-4379-a0b1-7a13ad36575c",
+        "locations": [
+          {
+            "id": "56cb4317-dfa9-4a4e-971b-8b6c8a741512"
+          }
+        ]
+      },
+      {
+        "id": "f5037187-2a42-44b5-9814-f12a4b92417c",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-24T20:10:02.929Z",
+        "updatedAt": "2021-08-17T13:27:46.777Z",
+        "slug": "resistance-aux-alterations",
+        "name": "Résistance aux altérations",
+        "description": "Matéria permettant de conférer aux personnages une résistance à l'altération de l'état de la matériel associé. Matérias associables : Vénéfice, Chronomancie, Contrainte et Annihilation.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Réduit la durée d'effet des altérations d'état de 25 %.",
+        "level2AP": 2500,
+        "level2Effects": "Réduit la durée d'effet des altérations d'état de 25 %.",
+        "level3Effects": "Réduit la durée d'effet des altérations d'état de 25 %.",
+        "level3AP": 7500,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "d1dcc811-2ea6-4379-a0b1-7a13ad36575c",
+        "locations": [
+          {
+            "id": "e110c115-f63c-4105-824e-a4f62a246791"
+          },
+          {
+            "id": "d59f3404-f2c9-452d-802c-dbabccc87f32"
+          }
+        ]
+      },
+      {
+        "id": "3442299e-26a7-475e-afff-97886eff1d91",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-27T19:41:09.557Z",
+        "updatedAt": "2021-08-17T13:27:23.956Z",
+        "slug": "absorption-de-pv",
+        "name": "Absorption de PV",
+        "description": "Matéria restaurant des PV lorsqu'une attaque est faite avec la matéria associé.\nMatérias associables : Feu, Glace, Foudre, Vent, Vénéfice, Technique ennemies, Esquive offensive et Parade",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Absorbe des PV (20% des dégâts infligés)",
+        "level2AP": 2500,
+        "level2Effects": "Absorbe des PV (30% des dégâts infligés)",
+        "level3Effects": "Absorbe des PV (40% des dégâts infligés)",
+        "level3AP": 7500,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "d1dcc811-2ea6-4379-a0b1-7a13ad36575c",
+        "locations": [
+          {
+            "id": "a46ea47d-064a-4474-b58c-2340cec4dc69"
+          },
+          {
+            "id": "fcfbd089-97e1-42a0-8e04-5e48bfc631c4"
+          }
+        ]
+      },
+      {
+        "id": "703f8909-90a2-4309-b4da-a45e117215f3",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-27T19:50:21.946Z",
+        "updatedAt": "2020-04-27T19:51:46.574Z",
+        "slug": "pc-augmentes",
+        "name": "PC augmentés",
+        "description": "Matéria augmentant les points de compétences obtenus avec la matéria associée.",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": "Augmente les PC obtenus pour la matéria associée de 100%.",
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "d1dcc811-2ea6-4379-a0b1-7a13ad36575c",
+        "locations": [
+          {
+            "id": "5affa82d-9312-4045-ab0a-b9ee6d918920"
+          }
+        ]
+      }
+    ],
+    "commande": [
+      {
+        "id": "5854f819-f6bd-48aa-9959-72ff8a15040c",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.720Z",
+        "updatedAt": "2021-08-17T13:31:32.305Z",
+        "slug": "turbo-atb",
+        "name": "Turbo ATB",
+        "description": "Matéria permettant de doubler le remplissage de la barre ATB en appuyant sur L1+R1. Ne peut être utilisé plusieurs fois de suite.",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Permet d'utiliser Turbo ATB (recharge 360s)",
+        "level2AP": 50,
+        "level2Effects": "Permet d'utiliser Turbo ATB (recharge 300s)",
+        "level3Effects": "Permet d'utiliser Turbo ATB (recharge 240s)",
+        "level3AP": 600,
+        "level4Effects": "Permet d'utiliser Turbo ATB (recharge 180s)",
+        "level4AP": 750,
+        "level5Effects": "Permet d'utiliser Turbo ATB (recharge 120s)",
+        "level5AP": 900,
+        "category_id": "45aa87ab-f786-49b8-ba9d-b97915c11bc1",
+        "locations": [
+          {
+            "id": "4951a683-5665-4952-8d38-ae3045f91a91"
+          }
+        ]
+      },
+      {
+        "id": "593d0bcd-3fb8-4272-9aa7-3271eaae646a",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.700Z",
+        "updatedAt": "2020-04-18T16:56:44.700Z",
+        "slug": "analyse",
+        "name": "Analyse",
+        "description": "Materia permettant d'utiliser la commande Analyser.",
+        "attributesEffects": null,
+        "levelMax": 2,
+        "level1Effects": "Permet d'utiliser Analyser (cible unique)",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Analyser (cibles multiples)",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "45aa87ab-f786-49b8-ba9d-b97915c11bc1",
+        "locations": [
+          {
+            "id": "433a5a47-8170-41b6-9f65-4ad734662505"
+          },
+          {
+            "id": "3ea8c3dc-34f0-4581-afdc-d57efeeecfea"
+          }
+        ]
+      },
+      {
+        "id": "8bcffb96-90d6-4a29-b9c7-2450dfa14ff5",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.698Z",
+        "updatedAt": "2021-08-17T13:49:02.547Z",
+        "slug": "chakra",
+        "name": "Chakra",
+        "description": "Materia permettant d'utiliser la commande Chakra, qui restaure une proportion des PV manquants du personnage et soigne l'atération Poison.",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Permet d'utiliser Chakra (restaure 20% des PV manquants)",
+        "level2AP": 50,
+        "level2Effects": "Permet d'utiliser Chakra (restaure 25% des PV manquants)",
+        "level3Effects": "Permet d'utiliser Chakra (restaure 30% des PV manquants)",
+        "level3AP": 600,
+        "level4Effects": "Permet d'utiliser Chakra (restaure 36% des PV manquants)",
+        "level4AP": 750,
+        "level5Effects": "Permet d'utiliser Chakra (restaure 42% des PV manquants)",
+        "level5AP": 900,
+        "category_id": "45aa87ab-f786-49b8-ba9d-b97915c11bc1",
+        "locations": [
+          {
+            "id": "cd03fa66-0918-4506-99c9-4477c1e7da49"
+          },
+          {
+            "id": "580e5edc-bf53-42ad-9c9b-c1013f48727c"
+          }
+        ]
+      },
+      {
+        "id": "2911ee61-b111-47ab-bac5-0938cfbe21a5",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T19:46:52.051Z",
+        "updatedAt": "2020-04-20T10:18:18.535Z",
+        "slug": "vol",
+        "name": "Vol",
+        "description": "Matéria permettant d'utiliser la commande Voler",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": "Permet d'utiliser Voler",
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "45aa87ab-f786-49b8-ba9d-b97915c11bc1",
+        "locations": [
+          {
+            "id": "81a41a08-ed70-4538-9ba9-2c0fb412509f"
+          }
+        ]
+      },
+      {
+        "id": "e6c4f8ba-2bb4-4889-8035-b6458d2bf3dd",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-25T19:37:59.443Z",
+        "updatedAt": "2020-04-25T19:52:55.613Z",
+        "slug": "techniques-ennemies",
+        "name": "Techniques ennemies",
+        "description": "Matéria permettant d'assimiler une partie des techniques ennemies avec une certaine probabilité et de les utiliser en tant que compétences. La matéria doit être équipée pour pouvoir utiliser les techniques ennemies assimilées.",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": "Permet d'assimiler et d'utiliser les techniques des ennemis.",
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "45aa87ab-f786-49b8-ba9d-b97915c11bc1",
+        "locations": [
+          {
+            "id": "ba3606c5-fba9-43af-af68-52f27e92eb2d"
+          }
+        ]
+      }
+    ],
+    "independante": [
+      {
+        "id": "ba5bbe6c-317c-4c86-8706-e422e4faa5c7",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.701Z",
+        "updatedAt": "2020-04-18T16:56:44.701Z",
+        "slug": "esquive-offensive",
+        "name": "Esquive offensive",
+        "description": "Materia élargissant la portée d'une attaque normale effectuée immédiatement après un esquive.",
+        "attributesEffects": null,
+        "levelMax": 2,
+        "level1Effects": "Permet d'utiliser Esquive offensive",
+        "level2AP": 1000,
+        "level2Effects": "Augmente la puissance de l'effet d'Esquive offensive",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "6c7b2383-cbe1-4ede-b1c2-4f3f59959b1c"
+          },
+          {
+            "id": "656b215e-8b0d-4b6d-8f6a-6ccd7e9f9168"
+          },
+          {
+            "id": "818abb55-a0b7-4642-8432-cb207e08bd90"
+          },
+          {
+            "id": "edca2b8a-a601-4dff-a247-f17320fc394e"
+          },
+          {
+            "id": "01fbbe06-fa13-4e59-9736-06d330fa174c"
+          },
+          {
+            "id": "99929bff-e4d6-4f44-80a5-10fbd5463589"
+          },
+          {
+            "id": "4bfff0cf-3062-413b-8ce5-35d14f794e14"
+          },
+          {
+            "id": "fb6271e4-4221-4355-9d4e-6609429be2f4"
+          },
+          {
+            "id": "f7dda2b5-4a70-4d80-9b3f-0c9dadafc2e9"
+          },
+          {
+            "id": "43fa15a9-2843-4137-b961-d7da8b5b90fd"
+          },
+          {
+            "id": "811adc37-85ae-40ce-a057-2ec5cc9fcc19"
+          },
+          {
+            "id": "c8a2be97-1638-480f-8f12-c42ce6e43ac5"
+          }
+        ]
+      },
+      {
+        "id": "c084b511-3919-42ba-ad27-9a8440c167b3",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.711Z",
+        "updatedAt": "2021-08-17T14:00:08.128Z",
+        "slug": "pm-augmentes",
+        "name": "PM augmentés",
+        "description": "Matéria augmentante les PM. (Augmentation limitée à 100% avec plusieurs materias)",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Augmente les PM 10%",
+        "level2AP": 500,
+        "level2Effects": "Augmente les PM 20%",
+        "level3Effects": "Augmente les PM 30%",
+        "level3AP": 1000,
+        "level4Effects": "Augmente les PM 40%",
+        "level4AP": 3500,
+        "level5Effects": "Augmente les PM 50%",
+        "level5AP": 5000,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "0626f15c-f73d-4845-b9cd-80e698ee89e1"
+          },
+          {
+            "id": "238421fd-7d0e-4016-8155-4339d086b73b"
+          },
+          {
+            "id": "01efb629-3af0-4b85-aba5-7856d27867b9"
+          },
+          {
+            "id": "f07a6df3-a4da-4abd-b925-b0ca158ac7ba"
+          },
+          {
+            "id": "d1ed2905-20ce-4fda-8f3a-da260d4e0caa"
+          },
+          {
+            "id": "ba4b615f-514e-4112-98fd-0d7afbbd0422"
+          },
+          {
+            "id": "f38fdcc0-5301-433d-960d-06a53034f685"
+          },
+          {
+            "id": "21a23911-473d-4db6-bb4a-68f8a45b1e7e"
+          },
+          {
+            "id": "021dd9b4-1197-48d4-950b-a893bbcbf946"
+          },
+          {
+            "id": "dc2ca890-8f08-4ce8-a251-bee0dc01690b"
+          },
+          {
+            "id": "77c523bd-818b-4a94-b133-2740380a94f2"
+          },
+          {
+            "id": "c3cb8278-96a4-40c6-938a-6351380fdaa0"
+          }
+        ]
+      },
+      {
+        "id": "5f44616b-7cd2-49dd-805c-d2e95b93ec1b",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.712Z",
+        "updatedAt": "2021-08-17T13:59:48.275Z",
+        "slug": "magie-augmentee",
+        "name": "Magie augmentée",
+        "description": "Matéria augmentante la magie. (Augmentation limitée à 100% avec plusieurs materias)",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Augmente la magie de 5%",
+        "level2AP": 500,
+        "level2Effects": "Augmente la magie de 10%",
+        "level3Effects": "Augmente la magie de 15%",
+        "level3AP": 1000,
+        "level4Effects": "Augmente la magie de 20%",
+        "level4AP": 3500,
+        "level5Effects": "Augmente la magie de 25%",
+        "level5AP": 5000,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "c180902b-e651-4073-86f0-0487f42c7104"
+          },
+          {
+            "id": "12de8567-67d1-4d60-abe9-e27435bb12ae"
+          }
+        ]
+      },
+      {
+        "id": "53b8f31d-4ebf-40be-8f15-451947de863c",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.714Z",
+        "updatedAt": "2021-08-17T13:58:38.646Z",
+        "slug": "pv-augmentes",
+        "name": "PV augmentés",
+        "description": "Matéria augmentante les PV. (Augmentation limitée à 100% avec plusieurs materias)",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Augmente les PV 10%",
+        "level2AP": 500,
+        "level2Effects": "Augmente les PV 20%",
+        "level3Effects": "Augmente les PV 30%",
+        "level3AP": 1000,
+        "level4Effects": "Augmente les PV 40%",
+        "level4AP": 3500,
+        "level5Effects": "Augmente les PV 50%",
+        "level5AP": 5000,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "8ccd96df-7b89-4745-b4a4-a2849ba43766"
+          },
+          {
+            "id": "7f56f466-6d02-47fd-8a0f-ab1b7d83c14f"
+          },
+          {
+            "id": "3f48a7ae-6be9-41ac-8f0e-b56a8472cdc1"
+          },
+          {
+            "id": "8e381d25-1e2a-4207-94df-350ee81eef9c"
+          },
+          {
+            "id": "db0a7668-bb27-46bc-870a-69d8f0c09142"
+          },
+          {
+            "id": "114e8321-3a87-4ab1-9ca6-94825d65d3e2"
+          },
+          {
+            "id": "317f1950-9727-4153-8546-ad230c268334"
+          },
+          {
+            "id": "bc271ce2-1916-4341-af9f-46604404a42e"
+          },
+          {
+            "id": "0fed10c4-40f8-4461-92f0-392d8b273bb2"
+          },
+          {
+            "id": "e5d78a0e-3b82-47d4-a6b0-354686298a3a"
+          },
+          {
+            "id": "1e6d697b-a1c5-4caa-8661-5b3e98ad2c43"
+          },
+          {
+            "id": "624110eb-b3f1-40d0-9173-df7a659c4d86"
+          }
+        ]
+      },
+      {
+        "id": "4ba557d6-bfa2-4d5c-bbb7-7b2a41e92c2b",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.703Z",
+        "updatedAt": "2020-04-18T16:56:44.703Z",
+        "slug": "auto-soin",
+        "name": "Auto-soin",
+        "description": "Materia faisant automatiquement lancer Soin un certain nombre de fois sur les éuipiers affaiblis. Sans effet en cas de jauge ATB ou de PM insuffisants. ou si le personnage est contrôlé.",
+        "attributesEffects": null,
+        "levelMax": 2,
+        "level1Effects": "Auto-soin (jusqu'à 3 fois par combat)",
+        "level2AP": 100,
+        "level2Effects": "Auto-soin (jusqu'à 10 fois par combat)",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "62a803f1-b77f-49d6-b2d8-47ffcfb08441"
+          }
+        ]
+      },
+      {
+        "id": "a0562691-d057-411b-b1ef-f5398b33bcbc",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.704Z",
+        "updatedAt": "2021-08-17T14:05:17.702Z",
+        "slug": "attaque-anticipee",
+        "name": "Attaque anticipée",
+        "description": "Matéria permettant d'augmenter le remplissage de la jauge ATB en début de combat.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Augmente un peu le remplissage de la jauge ATB en début de combat",
+        "level2AP": 250,
+        "level2Effects": "Augmente moyennement le remplissage de la jauge ATB en début de combat",
+        "level3Effects": "Augmente grandement le remplissage de la jauge ATB en début de combat",
+        "level3AP": 750,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "a64dcef9-3cda-46aa-abef-53d97bb156f1"
+          },
+          {
+            "id": "8830c417-d890-4249-8f23-8976c8acf4c0"
+          }
+        ]
+      },
+      {
+        "id": "9e4d8fe1-10f7-453b-a73d-762a0dbd50dd",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.722Z",
+        "updatedAt": "2021-08-17T13:54:44.473Z",
+        "slug": "provocation",
+        "name": "Provocation",
+        "description": "Matéria faisant automatiquement utiliser Provocation sur un ennemi qui attaque en équipier affaibli, le forçant temporairement à tourner son attention sur le personnage provocateur. Sans effet contre les ennemis puissants ou si le personnage est contrôlé",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Provocation (durée 60s, recharge 90s)",
+        "level2AP": 100,
+        "level2Effects": "Provocation (durée 90s, recharge 90s)",
+        "level3Effects": "Provocation (durée 100s, recharge 30s)",
+        "level3AP": 200,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "eacf935d-b88d-46c3-80f9-396f0d5cb004"
+          }
+        ]
+      },
+      {
+        "id": "fedc2b48-96fb-4732-9405-7d5de407b749",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.723Z",
+        "updatedAt": "2021-08-17T13:54:26.499Z",
+        "slug": "garde-renforcee",
+        "name": "Garde renforcée",
+        "description": "Matéria réduisant les dégâts subis et augmentant le remplissage de la jauge ATB lors de l'utilisation de la garde.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Réduit un peu les dégâts (garde). Augmente un peu l'ATB",
+        "level2AP": 250,
+        "level2Effects": "Réduit moyennement les dégâts (garde). Augmente moyennement l'ATB",
+        "level3Effects": "Réduit grandement les dégâts (garde). Augmente grandement l'ATB",
+        "level3AP": 750,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "4f98557b-c3c5-4f7a-8545-b4d9dbca6c5f"
+          },
+          {
+            "id": "b9fc479b-c76d-48e9-8d17-43bc27b74188"
+          }
+        ]
+      },
+      {
+        "id": "961d07a0-8ac2-42dd-8b0a-66c5e9948d88",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-19T14:11:01.845Z",
+        "updatedAt": "2021-08-17T13:54:05.522Z",
+        "slug": "expertise-des-objets",
+        "name": "Expertise des objets",
+        "description": "Matériel améliorant l'effet des objets utilisés en combat.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Augmente l'effet des objets en combat de 30%.",
+        "level2AP": 250,
+        "level2Effects": "Augmente l'effet des objets en combat de 40%.",
+        "level3Effects": "Augmente l'effet des objets en combat de 50%.",
+        "level3AP": 750,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "a818b6b0-9a9d-4df6-8a93-0fbf53ebc312"
+          },
+          {
+            "id": "d7beb888-2e53-4415-a87b-e39054a0f75d"
+          }
+        ]
+      },
+      {
+        "id": "9e76f2e3-6cf9-432b-874a-3d25e14be885",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-25T19:39:44.383Z",
+        "updatedAt": "2021-08-17T13:53:35.907Z",
+        "slug": "enchainement-stimulant",
+        "name": "Enchaînement stimulant",
+        "description": "Matéria remplissant la jauge ATB des équipiers, lorsque le personnage équipé de la matéria utilise plusieurs commandes ATB à la suite.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Augmente un peu le remplissage de la jauge ATB lorsqu'une commande est utilisé deux fois de suite.",
+        "level2AP": 1000,
+        "level2Effects": "Augmente moyennement le remplissage de l'ATB des équipiers lorsqu'une commande est utilisée 2 fois de suite.",
+        "level3Effects": "Augmente grandement le remplissage de l'ATB des équipiers lorsqu'une commande est utilisée 2 fois de suite.",
+        "level3AP": 3000,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "9582a840-83bb-413e-8b6a-2df37a59f231"
+          }
+        ]
+      },
+      {
+        "id": "e5b2dc5e-1494-4904-b76f-ea9381e0d9c7",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-25T20:36:59.307Z",
+        "updatedAt": "2020-04-25T20:49:06.578Z",
+        "slug": "parade",
+        "name": "Parade",
+        "description": "Matéria permettant aux personnages d'enchaîner à coup sûr sa prochaine attaque après avoir bloqué celle de l'ennemi, en maintenant R1 puis en esquivant avec O. Inflige un petit montant des dégâts à l'ennemi en cas de réussite.\nRemplit minimement la jauge ATB",
+        "attributesEffects": null,
+        "levelMax": 2,
+        "level1Effects": "Permet d'utiliser Parade",
+        "level2AP": 500,
+        "level2Effects": "Augmente les dégâts (parade réussie)\nRemplit minimement la jauge ATB",
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "5cc749b9-3a95-48c1-b0f8-24c79ed946bb"
+          },
+          {
+            "id": "0c06f67e-cff0-44f0-9d27-c911c3d429b8"
+          }
+        ]
+      },
+      {
+        "id": "54600482-ec1a-4e58-aab2-0d9f0b79f060",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-26T19:15:59.781Z",
+        "updatedAt": "2021-08-17T13:51:50.755Z",
+        "slug": "avantage-de-choc",
+        "name": "Avantage de Choc",
+        "description": "Matéria permettant de remplir la jauge ATB lorsque l'état de choc est infligée à un ennemi.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Augment un peu l'ATB (Choc).",
+        "level2AP": 250,
+        "level2Effects": "Augment moyennement l'ATB (Choc).",
+        "level3Effects": "Augment grandement l'ATB (Choc).",
+        "level3AP": 750,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "f5651b4c-d6c3-4cea-8121-9edff110a52f"
+          },
+          {
+            "id": "cd850cbc-8722-46b8-a845-ea2216e58861"
+          }
+        ]
+      },
+      {
+        "id": "f35bff52-5719-4f17-a432-6991e114e8d1",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.717Z",
+        "updatedAt": "2021-08-17T13:57:34.466Z",
+        "slug": "priere",
+        "name": "Prière",
+        "description": "Matéria permettant d'utiliser la commande Prière. Restaure des PV à tous les équipiers.",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Permet d'utiliser Prière (restauration de PV minime)",
+        "level2AP": 300,
+        "level2Effects": "Permet d'utiliser Prière (restauration de PV petite)",
+        "level3Effects": "Permet d'utiliser Prière (restauration de PV moyenne)",
+        "level3AP": 500,
+        "level4Effects": "Permet d'utiliser Prière (restauration de PV grande)",
+        "level4AP": 3500,
+        "level5Effects": "Permet d'utiliser Prière (restauration de PV très grande)",
+        "level5AP": 5000,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "0a9ba076-edbe-4ba9-afb8-f99411b5dbf2"
+          },
+          {
+            "id": "5e70ac67-eaa5-45f6-a510-bf3357f5e396"
+          }
+        ]
+      },
+      {
+        "id": "2bdfb2f6-950f-4d77-a8b4-b1b7ef77d19a",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-27T19:54:55.817Z",
+        "updatedAt": "2020-05-18T20:50:13.111Z",
+        "slug": "marcheur-invetere",
+        "name": "Marcheur invétéré",
+        "description": "",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "e55e4f72-bd3e-4339-ae5d-c12bffe91354"
+          }
+        ]
+      },
+      {
+        "id": "56847de7-2d9c-4e90-972d-99aefaef4e29",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-05-01T05:31:18.052Z",
+        "updatedAt": "2021-08-17T13:51:20.528Z",
+        "slug": "expertise-technique",
+        "name": "Expertise technique",
+        "description": "Matéria en remplissant un peu la jauge ATB lors de l'utilisation de plusieurs commandes ATB.",
+        "attributesEffects": null,
+        "levelMax": 3,
+        "level1Effects": "Augmente un peu le remplissage de la barre ATB lors de l'utilisation de trois types de commande.",
+        "level2AP": 250,
+        "level2Effects": "Augmente moyennement le remplissage de la barre ATB lors de l'utilisation de trois types de commande.",
+        "level3Effects": "Augmente grandement le remplissage de la barre ATB lors de l'utilisation de trois types de commande.",
+        "level3AP": 750,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "9055dd11-b59b-4192-8f83-73c2ca382314"
+          },
+          {
+            "id": "68c32a06-1dcd-416c-8ad4-27690ae38c1b"
+          }
+        ]
+      },
+      {
+        "id": "ff7a487f-28b2-4699-b4bc-c728b2664145",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.715Z",
+        "updatedAt": "2020-04-18T16:56:44.715Z",
+        "slug": "vision",
+        "name": "Vision",
+        "description": "Matéria permettant d'utiliser la technique de Transcendance Vision une fois par combat.",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": "Permet d'utiliser la Transcendance Vision",
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "e80ffc6a-7746-45f9-b267-2933d517021a"
+          }
+        ]
+      },
+      {
+        "id": "29a9d7c8-671a-4394-bf36-82029d49ffcf",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.708Z",
+        "updatedAt": "2021-08-17T14:04:47.122Z",
+        "slug": "chance-augmentee",
+        "name": "Chance augmentée",
+        "description": "Matéria augmentante la chance. (Augmentation limitée à 100% avec plusieurs materias)",
+        "attributesEffects": null,
+        "levelMax": 5,
+        "level1Effects": "Augmente la chance de 10%",
+        "level2AP": 500,
+        "level2Effects": "Augmente la chance de 20%",
+        "level3Effects": "Augmente la chance de 30%",
+        "level3AP": 1000,
+        "level4Effects": "Augmente la chance de 40%",
+        "level4AP": 3500,
+        "level5Effects": "Augmente la chance de 50%",
+        "level5AP": 5000,
+        "category_id": "89ff837f-3e39-4176-8899-779e958839ad",
+        "locations": [
+          {
+            "id": "243f72f3-7fb9-4b80-987d-464c88f13299"
+          },
+          {
+            "id": "49fecdb4-2c37-4714-ae62-1cdd3d919b11"
+          }
+        ]
+      }
+    ],
+    "invocation": [
+      {
+        "id": "dd697d74-8a75-4060-b90c-6b3ad99076f1",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T22:29:05.228Z",
+        "updatedAt": "2020-10-18T20:08:47.351Z",
+        "slug": "shiva",
+        "name": "Shiva",
+        "description": "Materia permettant d'invoquer Shiva.\nEsper qui utilise de puissant attaques de Glace\nPoussière de diamant : attaque de magique de glace",
+        "attributesEffects": "Max PM +2\nAttaque magique +4\nMagie +2",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": [
+          {
+            "id": "83280791-4fd7-4af0-935f-dda0678820ea"
+          }
+        ]
+      },
+      {
+        "id": "bb79b154-5917-4ecc-894d-29c965bfc4a5",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-11-08T18:19:44.770Z",
+        "updatedAt": "2021-05-14T15:21:52.469Z",
+        "slug": "chocobo-et-mog",
+        "name": "Chocobo et Mog",
+        "description": "",
+        "attributesEffects": null,
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": [
+          {
+            "id": "397a7f7b-1010-4224-85a4-8a49aeb42b02"
+          }
+        ]
+      },
+      {
+        "id": "e4ca8508-70ac-4617-bb58-150d170380bb",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-10-18T20:09:11.945Z",
+        "updatedAt": "2020-10-18T21:12:14.714Z",
+        "slug": "leviathan",
+        "name": "Léviathan",
+        "description": "Matéria permettant d'invoquer Léviathan.\nEsper qui utilise de puissantes attaques non-élémenaires.\nLame de fond\nL'invocation consomme 2 barres ATB pleines.",
+        "attributesEffects": "Max PM +2\nAttaque magique +4\nMagie +2",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      },
+      {
+        "id": "2c5c58ff-ae7e-4c92-a97c-e93d782eec5f",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-10-18T20:13:02.449Z",
+        "updatedAt": "2020-10-18T21:12:22.925Z",
+        "slug": "pampa",
+        "name": "Pampa",
+        "description": "Matéria permettant d'invoquer Pampa.\n10 000 épines ? : remplit la jauge de Transcendance de tous les équipiers.\nPotentiel de choc : élevé.",
+        "attributesEffects": "Esper qui utilise des attaques à dégâts fixes, ignorant la défense de l'ennemi.\n10 000 épines ? : remplit la jauge de Transcendance de tous les équipiers.\nPotentiel de choc : élevé.",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      },
+      {
+        "id": "0f2db39d-15b7-46eb-b73a-fd44451ff8ac",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-10-18T20:15:26.659Z",
+        "updatedAt": "2020-10-18T21:12:46.274Z",
+        "slug": "poussin-chocobo",
+        "name": "Poussin chocobo",
+        "description": "Matéria permettant d'invoquer un poussin chocobo.\nChoco-Fission : attaque physique non-élémentaire.",
+        "attributesEffects": "Esper capable d'utiliser les quatre éléments de base (feu, glace, foudre et vent) et donc à même d'exploiter les faiblesses des ennemis.\nChoco-Fission : attaque physique non-élémentaire.",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      },
+      {
+        "id": "20093b06-6593-4d5d-8966-4b553993378a",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-10-18T20:02:42.970Z",
+        "updatedAt": "2020-10-18T20:08:22.241Z",
+        "slug": "carbuncle",
+        "name": "Carbuncle",
+        "description": "Matéria permettant d'invoquer Carbuncle.\nEsper qui utilise des sorts de soin et de soutien tels que éclat du rubis et Éclat de la perle.\nScintillement du diamant : restaure les PV de tous les équipiers et leur octroie guérison et vie.",
+        "attributesEffects": "Aucun",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      },
+      {
+        "id": "ffaa9dc8-0c09-4347-b5e8-5da11bd969f3",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-10-18T20:18:20.907Z",
+        "updatedAt": "2020-10-18T21:12:35.424Z",
+        "slug": "gros-chocobo",
+        "name": "Gros chocobo",
+        "description": "Matéria permettant d'invoquer le gros chocobo.\nChoco-Largage : attaque physique non-élémentaire.\nL'invocation consomme 2 barres ATB pleines.",
+        "attributesEffects": "Esper qui utilise des attaques physiques non-élémentaires.\nChoco-Largage : attaque physique non-élémentaire.\nL'invocation consomme 2 barres ATB pleines.",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      },
+      {
+        "id": "6f36c619-2b23-4701-9f22-c9b282861985",
+        "isActive": true,
+        "picture": null,
+        "createdAt": "2020-04-18T16:56:44.770Z",
+        "updatedAt": "2020-10-18T20:08:26.472Z",
+        "slug": "ifrit",
+        "name": "Ifrit",
+        "description": "Matéria permettant d'invoquer Ifrit.\nEsper qui utilise de puissantes attaques de feu.\nFlammes de l'enfer: attaque magique de feu.",
+        "attributesEffects": "Max PM +1\nAttaque physique +4\nDéfense physique +2\nForce +2\nConstitution +2\n",
+        "levelMax": 1,
+        "level1Effects": null,
+        "level2AP": null,
+        "level2Effects": null,
+        "level3Effects": null,
+        "level3AP": null,
+        "level4Effects": null,
+        "level4AP": null,
+        "level5Effects": null,
+        "level5AP": null,
+        "category_id": "a9ebb97e-8c7d-4b3e-a722-9c7d95afbe40",
+        "locations": []
+      }
+    ]
+  }
+}
